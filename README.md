@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CHURCH one-word domains still available to buy.
 
-This dataset contains 4,028 .CHURCH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,061 .CHURCH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CHURCH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=description.top) (3,760) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,14 +13,15 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/church-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.csv"><b>⬇️ CSV (4.03K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.json"><b>⬇️ JSON (4.03K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.csv"><b>⬇️ CSV (4.06K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.json"><b>⬇️ JSON (4.06K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
 | ----------------- | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
+| aaron.church      | available | 88       | 32%    | 5      |                 |                  |                  |
 | abactinal.church  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.church      | available | 43       | 2%     | 5      |                 |                  |                  |
 | abandoned.church  | available | 58       | 10%    | 9      |                 |                  |                  |
@@ -30,6 +31,7 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | abatic.church     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abaxial.church    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.church   | available | 50       | 1%     | 8      |                 |                  |                  |
+| abc.church        | resell    | 102      | 41%    | 3      | Spaceship, Inc. | 16/06/2022 13:15 | 16/06/2026 13:15 |
 | abdicable.church  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abdominal.church  | available | 82       | 1%     | 9      |                 |                  |                  |
 | abdominous.church | available | 56       | 1%     | 10     |                 |                  |                  |
@@ -49,13 +51,11 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | abkhaz.church     | available | 82       | 2%     | 6      |                 |                  |                  |
 | abkhazian.church  | available | 78       | 1%     | 9      |                 |                  |                  |
 | ablated.church    | available | 52       | 2%     | 7      |                 |                  |                  |
-| ablative.church   | available | 68       | 3%     | 8      |                 |                  |                  |
-| ablaze.church     | resell    | 72       | 6%     | 6      | NameCheap, Inc. | 10/12/2016 08:57 | 10/12/2025 08:57 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/church-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.csv"><b>⬇️ CSV (4.03K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.json"><b>⬇️ JSON (4.03K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.csv"><b>⬇️ CSV (4.06K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/church-oneword-domains/blob/main/church.json"><b>⬇️ JSON (4.06K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
