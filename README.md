@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CHURCH one-word domains still available to buy.
 
-This dataset contains 4,230 .CHURCH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,231 .CHURCH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CHURCH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=description.top) (4,231) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | aaron.church      | available | 88       | 32%    | 5      |                 |                  |                  |
 | abactinal.church  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.church      | available | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.church  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.church  | available | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.church    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.church     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.church   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | abbatial.church   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abc.church        | resell    | 102      | 41%    | 3      | Spaceship, Inc. | 16/06/2022 13:15 | 16/06/2026 13:15 |
 | abdicable.church  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.church  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.church  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.church | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.church   | available | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.church   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | aberdonian.church | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.church   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.church    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.church  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.church  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abient.church     | available | 54       | 1%     | 6      |                 |                  |                  |
 | abit.church       | available | 66       | 16%    | 5      |                 |                  |                  |
 | abject.church     | available | 94       | 8%     | 6      |                 |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CHURCH one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
