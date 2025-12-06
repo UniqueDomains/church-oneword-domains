@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CHURCH one-word domains still available to buy.
 
-This dataset contains 4,230 .CHURCH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,228 .CHURCH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CHURCH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=church-oneword-domains&utm_content=description.top) (4,231) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
