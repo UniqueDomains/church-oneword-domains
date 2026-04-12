@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .church one-word domains fr
 
 **Public extract:** 8,445 rows · **Live catalog:** 8,446 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/church`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | energy.church | available | $78.98    | —             | 82             | 43     | 6      | namecheap              |
 | the.church    | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.        |
 | total.church  | premium   | $500      | $500          | 108            | 38     | 5      | name.com               |
-| order.church  | available | $11.99    | $58.99        | 78             | 41     | 5      | name.com               |
+| sales.church  | available | $78.98    | —             | 66             | 42     | 5      | namecheap              |
 | future.church | resell    | —         | —             | 94             | 55     | 6      | GoDaddy.com, LLC       |
 | direct.church | premium   | $123.75   | $123.75       | 104            | 38     | 6      | name.com               |
-| sales.church  | available | $78.98    | —             | 66             | 41     | 5      | namecheap              |
+| order.church  | available | $11.99    | $58.99        | 78             | 41     | 5      | name.com               |
 | sky.church    | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC            |
 | DIY.church    | premium   | $85.80    | $85.80        | 82             | 34     | 3      | namecheap              |
 | math.church   | available | $11.99    | —             | 76             | 40     | 4      | name.com               |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
