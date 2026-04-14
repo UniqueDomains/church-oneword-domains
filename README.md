@@ -1,22 +1,22 @@
-# Available .CHURCH One-Word Domains (8,445)
+# Available .CHURCH One-Word Domains (8,444)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C444%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C445%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C445%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C444%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .church one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .church one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,444-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,445 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,444 rows · **Live catalog:** 8,445 domains
+**Public extract:** 8,445 rows · **Live catalog:** 8,444 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/church`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CHURCH one-word domai
 
 ### Files
 
-- `church.csv` — public CSV extract (8,444 rows)
-- `church.json` — public JSON extract (8,444 rows)
+- `church.csv` — public CSV extract (8,445 rows)
+- `church.json` — public JSON extract (8,445 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -67,21 +67,21 @@ print(df.head())
 | snap.church   | available | $11.99    | $58.99        | 90             | 46     | 4      | name.com               |
 | test.church   | resell    | —         | —             | 72             | 89     | 4      | Wild West Domains, LLC |
 | travel.church | premium   | $520      | $520          | 115            | 48     | 6      | namecheap              |
-| elite.church  | available | $11.99    | $58.99        | 90             | 43     | 5      | name.com               |
+| energy.church | available | $78.98    | —             | 82             | 43     | 6      | namecheap              |
 | with.church   | resell    | —         | —             | 98             | 74     | 4      | Sav.com, LLC - 10      |
 | london.church | premium   | $42.90    | $42.90        | 76             | 43     | 6      | namecheap              |
-| energy.church | available | $78.98    | —             | 82             | 43     | 6      | namecheap              |
+| elite.church  | available | $11.99    | $58.99        | 90             | 42     | 5      | name.com               |
 | the.church    | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.        |
-| total.church  | premium   | $500      | $500          | 108            | 38     | 5      | name.com               |
+| direct.church | premium   | $123.75   | $123.75       | 104            | 40     | 6      | name.com               |
 | sales.church  | available | $78.98    | —             | 66             | 42     | 5      | namecheap              |
 | future.church | resell    | —         | —             | 94             | 55     | 6      | GoDaddy.com, LLC       |
-| direct.church | premium   | $123.75   | $123.75       | 104            | 38     | 6      | name.com               |
+| total.church  | premium   | $500      | $500          | 108            | 38     | 5      | name.com               |
 | order.church  | available | $11.99    | $58.99        | 78             | 40     | 5      | name.com               |
 | sky.church    | resell    | —         | —             | 80             | 53     | 3      | Porkbun LLC            |
 | DIY.church    | premium   | $85.80    | $85.80        | 82             | 34     | 3      | namecheap              |
 | math.church   | available | $11.99    | —             | 76             | 40     | 4      | name.com               |
 | tech.church   | resell    | —         | —             | 104            | 50     | 4      | NameCheap, Inc.        |
-| dutch.church  | premium   | $123.75   | $123.75       | 92             | 25     | 5      | name.com               |
+| dutch.church  | premium   | $123.75   | $123.75       | 92             | 24     | 5      | name.com               |
 | drop.church   | available | $11.99    | $58.99        | 86             | 38     | 4      | name.com               |
 | abc.church    | resell    | —         | —             | 102            | 50     | 3      | Spaceship, Inc.        |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,444-row public sample | 8,445 live domains                               |
+| 8,445-row public sample | 8,444 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
