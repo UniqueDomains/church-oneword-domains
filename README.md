@@ -69,7 +69,7 @@ print(df.head())
 | possibilities.church | premium   | $123.75   | —             | 52             | 7      | 13     | name.com          |
 | shortcuts.church     | available | $11.99    | —             | 48             | 41     | 10     | name.com          |
 | destination.church   | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 16 |
-| GreatBritain.church  | premium   | —         | —             | 70             | 12     | 13     | —                 |
+| GreatBritain.church  | premium   | —         | —             | 70             | 13     | 13     | —                 |
 | tokens.church        | available | $11.99    | —             | 51             | 36     | 6      | name.com          |
 | rocks.church         | resell    | —         | —             | 78             | 18     | 5      | Sav.com, LLC      |
 | William.church       | available | $78.98    | —             | 74             | 31     | 7      | namecheap         |
