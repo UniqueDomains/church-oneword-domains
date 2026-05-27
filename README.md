@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .church one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,316 domains · **Median ask:** $17.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/church`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | quotes.church        | available | $11.99    | —             | 58             | 29     | 6      | name.com          |
 | blocks.church        | available | $11.99    | —             | 53             | 29     | 6      | name.com          |
 | trades.church        | available | $11.99    | —             | 71             | 26     | 6      | name.com          |
+| inhouse.church       | available | $11.99    | —             | 70             | 24     | 8      | name.com          |
 | rekt.church          | available | $11.99    | —             | 40             | 24     | 4      | name.com          |
 | holidays.church      | available | $11.99    | —             | 78             | 23     | 8      | name.com          |
-| inhouse.church       | available | $11.99    | —             | 70             | 23     | 8      | name.com          |
-| pls.church           | available | $11.99    | —             | 60             | 23     | 3      | name.com          |
+| Places.church        | available | $78.98    | —             | 74             | 23     | 6      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
