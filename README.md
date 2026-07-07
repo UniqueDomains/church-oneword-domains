@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .church one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,316 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,316 domains · **Median ask:** $17.07 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,316 domains · **Median ask:** $13.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/church`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/church`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CHURCH one-word domai
 
 ### Files
 
-- `church.csv` — public CSV extract (1,000 rows)
-- `church.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `church.csv`, public CSV extract (1,000 rows)
+- `church.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| agents.church        | available | $11.99    | —             | 56             | 50     | 6      | name.com          |
-| maps.church          | resell    | —         | —             | 56             | 31     | 4      | Name.com, Inc.    |
-| possibilities.church | premium   | $123.75   | —             | 52             | 7      | 13     | name.com          |
-| shortcuts.church     | available | $11.99    | —             | 48             | 41     | 10     | name.com          |
-| destination.church   | resell    | —         | —             | 90             | 24     | 11     | Sav.com, LLC - 16 |
-| GreatBritain.church  | premium   | —         | —             | 70             | 13     | 13     | —                 |
-| tokens.church        | available | $11.99    | —             | 51             | 36     | 6      | name.com          |
-| rocks.church         | resell    | —         | —             | 78             | 18     | 5      | Sav.com, LLC      |
-| William.church       | available | $78.98    | —             | 74             | 31     | 7      | namecheap         |
-| whitewater.church    | resell    | —         | —             | 82             | 17     | 11     | Sav.com, LLC - 36 |
-| slots.church         | available | $11.99    | —             | 49             | 31     | 5      | name.com          |
-| SaintNicholas.church | resell    | —         | —             | 64             | 4      | 14     | Sav.com, LLC - 17 |
-| rewards.church       | available | $11.99    | —             | 62             | 30     | 7      | name.com          |
-| quotes.church        | available | $11.99    | —             | 58             | 29     | 6      | name.com          |
-| blocks.church        | available | $11.99    | —             | 53             | 29     | 6      | name.com          |
-| trades.church        | available | $11.99    | —             | 71             | 26     | 6      | name.com          |
-| inhouse.church       | available | $11.99    | —             | 70             | 24     | 8      | name.com          |
-| rekt.church          | available | $11.99    | —             | 40             | 24     | 4      | name.com          |
-| holidays.church      | available | $11.99    | —             | 78             | 23     | 8      | name.com          |
-| Places.church        | available | $78.98    | —             | 74             | 23     | 6      | namecheap         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| come.church   | available | $11.99    | —             | high           | low    | 4      | name.com                                                  |
+| tough.church  | available | $11.99    | —             | high           | low    | 5      | name.com                                                  |
+| boo.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| fan.church    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
+| lady.church   | premium   | $123.75   | —             | high           | low    | 4      | name.com                                                  |
+| but.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| best.church   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| total.church  | premium   | $500      | $500          | high           | low    | 5      | name.com                                                  |
+| CNN.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| cell.church   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| alaska.church | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
+| cry.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| ring.church   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| direct.church | premium   | $123.75   | $123.75       | high           | medium | 6      | name.com                                                  |
+| eat.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| rose.church   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 29                                         |
+| feb.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| daddy.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 21                                         |
+| fee.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| small.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word .church domains. The names range from literal terms such as exact.church and worshipful.church to broader dictionary words such as appeal.church, meanwhile.church, and flexible.church. That makes the set useful for two different buyers: founders who want a memorable, ownable niche identity, and investors who care about whether a name is clear enough to resell within a specialized TLD. With a median ask of 17.07, price is only one screen. The harder call is whether the word strengthens trust, reads naturally before .church, and avoids unnecessary trademark or meaning risk.
+This list covers one-word domain names registered under the .church top-level domain, currently totaling 11,316 entries. Common English words—okay, feel, correct, sorry, come, beauty, here, clean, room, and nothing—make up the bulk of the selection, giving each name a familiar, easy-to-spell character. The median asking price sits near $13.94, putting most .church domains within reach for a quick purchase rather than a long negotiation. When comparing these domains, weigh the asking price against renewal cost, check whether the word carries any trademark risk, and favor names that read naturally in a church, ministry, or community context. Updated daily, this set reflects the current pool of one-word .church domains available for evaluation.
 
-- Prefer words that read naturally with .church
-- Check if the term is memorable, clear, and easy to spell
-- Low ask does not remove niche TLD resale risk
-- Avoid words with brand or trademark ambiguity
+- 11,316 one-word .church domains, from feel.church to beauty.church
+- Median asking price near $13.94 across the full selection
+- Everyday words like room, clean, and nothing ready to register
+- Short, ministry-friendly names that are easy to spell and recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
