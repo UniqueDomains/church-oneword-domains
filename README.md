@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .church one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,844 domains · **Median ask:** $11.37 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/tld/church`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| come.church   | available | $11.99    | —             | high           | low    | 4      | name.com                                                  |
+| tough.church  | available | $11.99    | —             | high           | low    | 5      | name.com                                                  |
 | abo.church    | available | $8.48     | $78.98        | low            | low    | 3      | namecheap                                                 |
 | fan.church    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
 | boer.church   | premium   | $78.54    | $78.54        | low            | low    | 4      | namesilo                                                  |
@@ -82,8 +84,6 @@ print(df.head())
 | CNN.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
 | daddy.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 21                                         |
 | cry.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| small.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                         |
-| eat.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
