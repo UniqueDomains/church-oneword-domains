@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .church one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,676 domains · **Median ask:** $11.08 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/church`
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | abo.church    | available | $8.48     | $78.98        | low            | low    | 3      | namecheap                                                 |
-| fan.church    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
+| best.church   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
 | boer.church   | premium   | $78.54    | $78.54        | low            | low    | 4      | namesilo                                                  |
 | aug.church    | available | $8.48     | $78.98        | low            | low    | 3      | namecheap                                                 |
-| best.church   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| cell.church   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | lady.church   | premium   | $123.75   | —             | high           | low    | 4      | name.com                                                  |
 | azo.church    | available | $8.48     | $78.98        | low            | low    | 3      | namecheap                                                 |
-| cell.church   | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ring.church   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
 | total.church  | premium   | $500      | $500          | high           | low    | 5      | name.com                                                  |
 | boo.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| ring.church   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                               |
+| rose.church   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 29                                         |
 | alaska.church | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
 | but.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
-| rose.church   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 29                                         |
-| direct.church | premium   | $123.75   | $123.75       | high           | medium | 6      | name.com                                                  |
-| CNN.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
 | daddy.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 21                                         |
-| cry.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| direct.church | premium   | $123.75   | $123.75       | high           | medium | 6      | name.com                                                  |
+| cnn.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
 | small.church  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 24                                         |
+| cry.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
+| super.church  | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc                                               |
 | eat.church    | available | $11.99    | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHURCH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
