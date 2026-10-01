@@ -1,8 +1,11 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3bd16156-776f-4229-86e8-4dbf480f118c,numerable.church,available,8.48,78.98,medium,low,9,namecheap,,,13/08/2026 03:32
 98751cd3-c3a0-4608-914b-4adc1412aa52,hess.church,available,14.99,58.99,high,low,4,namesilo,,,27/09/2026 03:38
+a27dd700-2a62-46a1-b95a-8cbfc2cb03de,efficiently.church,available,7.45,46.78,medium,low,11,spaceship,,,30/09/2026 12:23
+3dce9bdb-cbfc-4e20-aa73-b0c392276963,hybrids.church,available,14.99,58.99,medium,low,7,namesilo,,,30/09/2026 14:39
 683a9a5e-b842-46be-b06b-bf4f555569b6,quarto.church,available,14.99,58.99,medium,low,6,namesilo,,,16/09/2026 12:37
 e42be54a-e736-462a-a639-f974b1f53631,eldritch.church,available,8.48,78.98,medium,low,8,namecheap,,,16/08/2026 02:21
+230d076f-cb87-432a-8725-c08706b93bad,ker.church,available,14.99,58.99,medium,low,3,namesilo,,,30/09/2026 14:01
 489f2779-6b9f-4ee9-920a-58593ea690f6,distantly.church,available,8.48,78.98,medium,low,9,namecheap,,,14/09/2026 13:17
 e1f21e13-05cb-4c01-b387-9e0d2cd9dd74,ferial.church,available,8.48,78.98,high,low,6,namecheap,,,18/08/2026 01:56
 b72ee334-8455-44ed-a2b8-0c7ca55c6ed5,epicene.church,available,8.48,78.98,medium,low,7,namecheap,,,12/08/2026 08:38
@@ -20,14 +23,16 @@ c05a9b84-df27-40e7-b4fd-960fcd350030,actinia.church,available,14.99,58.99,medium
 22f36d8b-24a4-42ba-8ee2-d6868805baeb,rattle.church,available,14.99,58.99,high,low,6,namesilo,,,19/09/2026 15:18
 43486443-6a93-4f1d-ac9c-da5d970d9d2e,variable.church,available,6.69,46.86,high,low,8,porkbun,,,28/09/2026 10:08
 f4e61eb2-c23f-44e7-a847-1d23c479bc9e,alton.church,available,14.99,58.99,high,low,5,namesilo,,,27/09/2026 07:13
+20fc9ef8-6f9e-4be4-99bc-77e9d30006a3,textbooks.church,available,7.45,46.78,medium,low,9,spaceship,,,30/09/2026 16:14
 66c1d54d-9177-4f79-a88a-20091706549f,antonius.church,available,14.99,58.99,medium,low,8,namesilo,,,19/09/2026 13:34
 552539c2-38ee-48a0-b248-c598fcc38a8d,closed.church,available,8.48,78.98,high,low,6,namecheap,,,12/08/2026 12:15
 9b5f30ac-c6e3-47a1-8ec4-32dd3ed19c17,strontium.church,available,14.99,58.99,medium,low,9,namesilo,,,20/09/2026 22:59
-d9f9aab5-3b61-4b34-9796-5aa2b1ed8274,isomorphic.church,available,8.48,78.98,high,low,10,namecheap,,,22/08/2026 11:12
+d9f9aab5-3b61-4b34-9796-5aa2b1ed8274,isomorphic.church,available,8.48,78.98,medium,low,10,namecheap,,,22/08/2026 11:12
 30780dda-0f9a-47e3-bcaf-6b71ffa38bdb,lucerne.church,available,14.99,58.99,high,low,7,namesilo,,,18/09/2026 06:08
 6c43437e-649b-4318-bd61-709fbdb8eff5,supporting.church,available,14.99,58.99,high,low,10,namesilo,,,28/09/2026 02:02
 5e29930e-2737-4c5b-aa65-0c53cb90005a,jealousy.church,available,45.2,45.2,medium,low,8,cloudflare,,,28/09/2026 09:57
 830bdc68-782d-49db-b841-c6fa489f95a7,concussion.church,available,8.48,78.98,high,low,10,namecheap,,,29/09/2026 10:35
+085732d2-5894-4876-af7e-5447a0dcb7ed,restoring.church,available,14.99,58.99,medium,low,9,namesilo,,,30/09/2026 15:39
 e3e50602-5d30-410d-9a55-3bf5e734ce69,academism.church,available,8.48,78.98,medium,low,9,namecheap,,,16/09/2026 20:23
 6776c093-cb6e-40f1-b8f8-e8580357f5c7,lent.church,available,7.45,46.78,high,low,4,spaceship,,,28/09/2026 14:42
 ac4af609-3579-47c5-8aee-aad0f23cadfb,physically.church,available,14.99,58.99,medium,low,10,namesilo,,,19/09/2026 14:53
@@ -49,25 +54,28 @@ b8a899f0-a586-4960-b5e4-69f812056df8,unconfused.church,available,8.48,78.98,medi
 9d5716aa-a805-4298-a9e9-6450c609b5bc,publishers.church,available,14.99,58.99,medium,low,10,namesilo,,,20/09/2026 01:32
 5aeeea22-db6f-4656-a82f-1057c08ec379,stacked.church,available,8.48,78.98,high,low,7,namecheap,,,10/08/2026 20:37
 0d2d8561-46d3-4b42-914d-8bb05d1ac7a6,andreas.church,available,14.99,58.99,high,low,7,namesilo,,,25/09/2026 13:21
-402ec7d3-f72a-4a4f-bdf2-376a80d96d37,barman.church,available,14.99,58.99,high,low,6,namesilo,,,22/09/2026 06:19
+402ec7d3-f72a-4a4f-bdf2-376a80d96d37,barman.church,available,14.99,58.99,medium,low,6,namesilo,,,22/09/2026 06:19
 e825d6e2-54e7-4613-8ff5-167c4cd88d5e,heavyset.church,available,8.48,78.98,medium,low,8,namecheap,,,21/08/2026 05:31
 ffa11744-4614-45cf-812c-ec7e9cfec24f,dentate.church,available,8.48,78.98,medium,low,7,namecheap,,,14/08/2026 01:57
 deb68c7d-5700-4b79-b666-e60fce1cdddf,affiliates.church,available,14.99,58.99,high,low,10,namesilo,,,21/09/2026 06:56
-5841d082-9510-4ff5-b2ae-2ae74e9c696e,weirdness.church,available,14.99,58.99,high,low,9,namesilo,,,23/09/2026 23:18
+5841d082-9510-4ff5-b2ae-2ae74e9c696e,weirdness.church,available,14.99,58.99,medium,low,9,namesilo,,,23/09/2026 23:18
 7cdc8016-20bc-4962-ab60-5996433ca72d,furtive.church,available,8.48,78.98,medium,low,7,namecheap,,,08/08/2026 06:32
 db83243c-622d-4e09-8c96-61aac7f4038c,prox.church,available,8.48,78.98,medium,low,4,namecheap,,,09/09/2026 04:42
 5c38f0e5-8306-470d-8571-42b494a58e3f,doubly.church,available,8.48,78.98,medium,low,6,namecheap,,,14/09/2026 13:48
 7892fac6-eaac-4fdb-86c8-4abf6fbd6d21,heritable.church,available,8.48,78.98,medium,low,9,namecheap,,,21/08/2026 07:08
 77d56eb0-1d41-4b78-91ed-a81588154924,ablated.church,available,8.48,78.98,medium,low,7,namecheap,,,
 1ed0afc2-b8bc-4722-b504-40b5e987ed1e,cole.church,available,8.48,78.98,high,low,4,namecheap,,,25/09/2026 01:59
-55dd8e06-7064-4878-a4ce-192ef608126d,artesian.church,available,8.48,78.98,high,low,8,namecheap,,,06/08/2026 22:39
-e15f69e7-b69f-4f9b-82b9-a0f874af414c,fright.church,available,14.99,58.99,high,low,6,namesilo,,,17/09/2026 14:50
+bcee9cfe-0afc-409c-8717-b2cea2b7f841,hammering.church,available,6.69,46.86,high,low,9,porkbun,,,01/10/2026 02:23
+55dd8e06-7064-4878-a4ce-192ef608126d,artesian.church,available,8.48,78.98,medium,low,8,namecheap,,,06/08/2026 22:39
+ee187458-19b8-4846-9e40-61dfb6d6f475,midlothian.church,available,13.5,,medium,low,10,unstoppable,,,30/09/2026 21:02
+e15f69e7-b69f-4f9b-82b9-a0f874af414c,fright.church,available,14.99,58.99,medium,low,6,namesilo,,,17/09/2026 14:50
 0e20b463-d704-4fc8-afb1-91db779b7e46,mendicant.church,available,8.48,78.98,medium,low,9,namecheap,,,24/08/2026 20:08
 2bc79235-b7f1-40a3-bcb9-bc8a225863de,halloween.church,available,13.5,,high,low,9,unstoppable,,,28/09/2026 20:33
 0d11bbb7-ffc3-41b4-91cd-76edd8517450,purchased.church,available,6.69,46.86,low,low,9,porkbun,,,28/09/2026 17:30
-bee56a2d-e5f0-4726-bc9b-020296f3c1bb,vent.church,available,11.99,,high,low,4,name.com,,,
+bee56a2d-e5f0-4726-bc9b-020296f3c1bb,vent.church,available,14.99,58.99,high,low,4,namesilo,,,30/09/2026 14:25
 55f12d05-b4e3-4ecf-a5b5-0458e7e6d46d,kpa.church,available,6.64,48.37,medium,low,3,dynadot,,,28/09/2026 16:13
-28746073-71af-4fad-afe4-de3d7e3c6440,bullock.church,available,7.45,46.78,high,low,7,spaceship,,,29/09/2026 11:48
+28746073-71af-4fad-afe4-de3d7e3c6440,bullock.church,available,7.45,46.78,medium,low,7,spaceship,,,29/09/2026 11:48
+93a4e3c4-73f3-4407-8c9f-87c48b92d0f2,rayburn.church,available,13.5,,high,low,7,unstoppable,,,30/09/2026 20:29
 0113c21a-34b5-4560-8f5c-4fff052f16c9,amount.church,available,7.45,46.78,high,low,6,spaceship,,,29/09/2026 07:57
 eb7673fc-12b0-43e9-a3c0-96d98482371b,finances.church,available,13.5,,high,low,8,unstoppable,,,29/09/2026 00:22
 7243aec4-4392-40f6-b505-ae0f9543e685,socrates.church,available,7.45,46.78,high,low,8,spaceship,,,29/09/2026 20:25
@@ -87,6 +95,7 @@ fb583e37-b3d4-4406-80b9-2531fe4dafbf,abstracted.church,available,8.48,78.98,medi
 8e580212-0fe5-436c-bab7-41117b3e7925,hoarding.church,available,14.99,58.99,medium,low,8,namesilo,,,23/09/2026 16:09
 b37e4c22-be34-41b6-a91f-49e7c8fdb7f9,cwa.church,available,14.99,58.99,medium,low,3,namesilo,,,29/09/2026 22:10
 aef08e43-071a-4ff7-8661-af57f8a4148c,luteal.church,available,8.48,78.98,medium,low,6,namecheap,,,24/08/2026 12:07
+e2024b1f-1e54-48ea-99cb-cc01e885dfb9,columella.church,available,45.2,45.2,medium,low,9,cloudflare,,,30/09/2026 09:13
 7b782108-0c7f-42fb-be26-1ad7d0bbc498,amphibious.church,available,8.48,78.98,medium,low,10,namecheap,,,
 31961a11-da2a-4385-8209-4bc2537cde50,hecht.church,available,14.99,58.99,high,low,5,namesilo,,,23/09/2026 07:20
 060c5f5e-d6a5-45f8-86f0-7d838f0ee78d,anomie.church,available,8.48,78.98,medium,low,6,namecheap,,,19/09/2026 11:29
@@ -105,6 +114,7 @@ dcaac1e3-e810-4ffd-b438-085ef7ccfde4,phelps.church,available,8.48,78.98,high,low
 57a343d0-f9ec-4bfe-9dd5-191564877f90,reportable.church,available,8.48,78.98,medium,low,10,namecheap,,,09/09/2026 14:36
 e8e9cd4c-19c3-41b5-9af2-8f967968b063,stretchout.church,available,8.48,78.98,medium,low,11,namecheap,,,17/09/2026 05:03
 28115732-ac5a-4519-962c-00835a17995f,banjo.church,available,14.99,58.99,high,low,5,namesilo,,,22/09/2026 02:11
+95e09105-108d-46d0-8d2a-297669eae615,shrubs.church,available,13.5,,medium,low,6,unstoppable,,,30/09/2026 22:40
 e42c4de6-31c2-4750-b2b0-4320c56202f6,juiceless.church,available,8.48,78.98,medium,low,9,namecheap,,,22/08/2026 14:18
 07d82e0c-0d54-4b75-bdfe-59513f2f87fe,ships.church,available,14.99,58.99,medium,low,5,namesilo,,,18/09/2026 14:07
 eb448549-8ab9-4233-a9c3-72f0bf903bff,lobar.church,available,8.48,78.98,medium,low,5,namecheap,,,24/08/2026 08:33
@@ -112,19 +122,21 @@ eb448549-8ab9-4233-a9c3-72f0bf903bff,lobar.church,available,8.48,78.98,medium,lo
 f5620187-485f-4cd7-81f7-67695cd0a847,tightly.church,available,14.99,58.99,medium,low,7,namesilo,,,16/09/2026 09:06
 cdf612e2-2207-461c-8575-67553fcbb6e7,addressing.church,available,45.2,45.2,high,low,10,cloudflare,,,29/09/2026 10:51
 e6d297d8-672c-45b0-a815-234b3e7905cd,bankrupt.church,available,8.48,78.98,medium,low,8,namecheap,,,08/08/2026 13:29
-3a288e04-4079-4925-a80a-eda27ccb527d,polo.church,available,,,high,high,4,,,,
 712e8944-75d1-4566-bdd5-af1e7772aac4,westerly.church,available,8.48,78.98,medium,low,8,namecheap,,,13/09/2026 10:53
+cc438130-cc41-4d4b-b06e-26baa4e5dc50,esposito.church,available,7.45,46.78,high,low,8,spaceship,,,30/09/2026 21:18
+32058954-d66f-4204-808a-9a2aca59c37a,etta.church,available,13.5,,high,low,4,unstoppable,,,30/09/2026 13:19
 d67540ed-d767-4d46-8ee5-66e5a2b4823a,metcalf.church,available,7.45,46.78,medium,low,7,spaceship,,,28/09/2026 18:20
 83525545-e28a-4165-be6f-b5534d132336,chartres.church,available,13.5,,high,low,8,unstoppable,,,29/09/2026 11:53
+fb7041e1-2c36-4565-a6f8-8ba142d2912e,paulson.church,available,14.99,58.99,medium,low,7,namesilo,,,30/09/2026 13:15
 ba972e08-f5f2-4b96-abd8-2d71a19c7af9,cornelia.church,available,7.45,46.78,medium,low,8,spaceship,,,28/09/2026 07:53
-581adf6e-c5ed-46b8-a986-c988856b4b2a,compression.church,available,6.69,46.86,high,low,11,porkbun,,,29/09/2026 04:39
+581adf6e-c5ed-46b8-a986-c988856b4b2a,compression.church,available,6.69,46.86,medium,low,11,porkbun,,,29/09/2026 04:39
 2571ab47-b62e-4912-a572-054d2b6d3737,binoculars.church,available,14.99,58.99,high,low,10,namesilo,,,23/09/2026 17:37
 6f20a6d5-c247-45f7-870f-ccf2462215b2,horrify.church,available,14.99,58.99,medium,low,7,namesilo,,,18/09/2026 01:56
 254ce64e-6e3f-4c45-85bd-dd82e20d2b1a,valdez.church,available,8.48,78.98,medium,low,6,namecheap,,,28/09/2026 20:43
 bf5ed46e-870b-4e7d-97d7-cfad8c249387,scandalous.church,available,8.48,78.98,medium,low,10,namecheap,,,14/08/2026 10:26
 26a2ef4f-3e06-452e-bb85-9969e43ad2ff,biennial.church,available,8.48,78.98,high,low,8,namecheap,,,09/08/2026 19:52
-8f480837-a87f-4148-8b14-79c91da5d154,texas.church,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",19/01/2020 14:16,19/01/2027 14:16,26/09/2026 09:34
-79ca7029-1963-444f-9729-65c5dceb4306,flawed.church,available,8.48,78.98,high,low,6,namecheap,,,18/08/2026 07:18
+8f480837-a87f-4148-8b14-79c91da5d154,texas.church,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",19/01/2020 14:16,19/01/2027 14:16,30/09/2026 03:10
+79ca7029-1963-444f-9729-65c5dceb4306,flawed.church,available,8.48,78.98,medium,low,6,namecheap,,,18/08/2026 07:18
 30881358-0f6b-40b2-8701-211935fae201,subarctic.church,available,8.48,78.98,medium,low,9,namecheap,,,10/09/2026 23:36
 9f9381c7-497e-4be3-8592-fd8d70f617e0,ascendable.church,available,8.48,78.98,medium,low,10,namecheap,,,07/08/2026 00:35
 d8da2e70-96b3-45d5-93fd-06d3894bceb0,racket.church,available,6.64,48.37,medium,low,6,dynadot,,,28/09/2026 14:13
@@ -136,29 +148,32 @@ d37d6226-a029-4eba-88dd-470a58c33612,stamford.church,premium,78.54,78.54,high,lo
 b3d8d191-ba0a-4220-b8b3-a8169c93878c,goliath.church,available,14.99,58.99,high,low,7,namesilo,,,23/09/2026 03:22
 543fe751-cebe-44bc-b309-2f6d52e7e915,prosaic.church,available,8.48,78.98,medium,low,7,namecheap,,,21/08/2026 15:08
 e23afbf8-e61b-4a08-898c-4e88128de248,hold.church,available,14.99,58.99,high,low,4,namesilo,,,24/09/2026 23:26
-d35784f5-67c6-48c1-b252-44685270a97c,items.church,available,6.64,48.37,medium,low,5,dynadot,,,28/09/2026 04:15
+d35784f5-67c6-48c1-b252-44685270a97c,items.church,available,8.48,78.98,medium,low,5,namecheap,,,30/09/2026 21:02
 7829b6eb-8182-4fc5-9b67-e113f2c6c490,permission.church,available,8.48,78.98,high,low,10,namecheap,,,25/09/2026 09:53
 e0d48ef6-b0ba-4178-a512-f3c2f5655370,mellowed.church,available,8.48,78.98,medium,low,8,namecheap,,,24/08/2026 19:36
 ae80b541-67e0-49e7-ba59-387c0acf55c8,timorous.church,available,8.48,78.98,medium,low,8,namecheap,,,11/09/2026 16:05
 c01c0a54-72a7-48b3-83fe-3a0587c45333,luncheon.church,available,14.99,58.99,high,low,8,namesilo,,,29/09/2026 13:43
 ff2dac5a-9469-456b-bf71-71053ece6e1c,humanoid.church,available,14.99,58.99,high,medium,8,namesilo,,,19/09/2026 04:56
 d7fa4fd8-9b9e-4096-8b3d-762e1e0ef938,crotch.church,available,14.99,58.99,medium,low,6,namesilo,,,24/09/2026 19:42
-9e1c98ae-8ca1-4d50-9150-6d4fefdff621,wig.church,available,11.99,,high,low,3,name.com,,,
+9e1c98ae-8ca1-4d50-9150-6d4fefdff621,wig.church,available,45.2,45.2,high,low,3,cloudflare,,,30/09/2026 14:43
 d862bc0d-1108-4997-b410-f6e35d8c2955,pool.church,available,45.2,45.2,high,medium,4,cloudflare,,,29/09/2026 11:12
 54e595a6-7d6a-4868-b9c3-090f9bdae061,hallowed.church,available,8.48,78.98,high,low,8,namecheap,,,20/08/2026 22:52
 77ea19b2-0742-4a2b-96a9-0766c4d22cc2,aired.church,available,8.48,78.98,high,low,5,namecheap,,,
-5a052311-c3a3-45bd-aca3-c5b2bded54a9,thoracic.church,available,8.48,78.98,high,low,8,namecheap,,,08/09/2026 12:02
+5a052311-c3a3-45bd-aca3-c5b2bded54a9,thoracic.church,available,8.48,78.98,medium,low,8,namecheap,,,08/09/2026 12:02
+8077939e-ee6e-4ed6-9d7a-1cb2c1dd43da,elie.church,available,45.2,45.2,medium,low,4,cloudflare,,,30/09/2026 20:32
 f9248354-e334-4e1e-8f0f-f21e17e2dd5e,upland.church,resell,,,medium,low,6,"Sav.com, LLC - 11",20/04/2026 15:15,20/04/2027 15:15,26/09/2026 09:53
 38b73969-1639-4cfe-818a-056be7156491,choked.church,available,8.48,78.98,medium,low,6,namecheap,,,12/08/2026 06:39
 9de27cbc-b9c3-4244-956f-3f8b0aa53a8a,quadrant.church,available,7.45,46.78,high,low,8,spaceship,,,29/09/2026 20:05
-7763c3bc-a395-4e7b-9c58-5edfea0873f3,triangular.church,available,8.48,78.98,high,low,10,namecheap,,,11/09/2026 14:30
+7763c3bc-a395-4e7b-9c58-5edfea0873f3,triangular.church,available,8.48,78.98,medium,low,10,namecheap,,,11/09/2026 14:30
 cc0e4773-dd0d-4972-83d4-035c9a1f7a84,sabrina.church,available,13.5,,medium,low,7,unstoppable,,,29/09/2026 04:05
-8c3364a8-e5e1-447d-a08e-4de5802abfd6,locomotor.church,available,8.48,78.98,high,low,9,namecheap,,,24/08/2026 08:50
+74388495-4b15-4981-a5c7-6d5ad07eeeab,jaya.church,available,14.99,58.99,high,low,4,namesilo,,,30/09/2026 05:18
+8c3364a8-e5e1-447d-a08e-4de5802abfd6,locomotor.church,available,8.48,78.98,medium,low,9,namecheap,,,24/08/2026 08:50
 61d67709-1c8d-4ddc-9524-804655dfd70c,scrambled.church,available,8.48,78.98,high,low,9,namecheap,,,09/09/2026 23:46
 fbc6619d-9c8a-450c-9c06-d9f5898bd5d3,conclude.church,available,13.5,,high,low,8,unstoppable,,,28/09/2026 10:47
+bc4bc0f7-8413-4667-9f14-4db450275c15,brood.church,available,7.45,46.78,high,low,5,spaceship,,,30/09/2026 16:30
 cb480f0d-c568-4913-b356-f00cc46f0c85,captured.church,available,14.99,58.99,medium,low,8,namesilo,,,27/09/2026 02:07
 0e7c5db9-0c90-47ba-b1d5-46ffc8de07cb,albula.church,available,14.99,58.99,medium,low,6,namesilo,,,18/09/2026 03:24
-99f43d1d-9daa-4196-b445-bd50e3265660,calciferol.church,available,11.99,58.99,high,low,10,name.com,,,13/08/2026 15:07
+99f43d1d-9daa-4196-b445-bd50e3265660,calciferol.church,available,11.99,58.99,medium,low,10,name.com,,,13/08/2026 15:07
 a872c859-2ca0-45aa-86d4-2f4874282686,wintertime.church,available,11.99,,high,low,11,name.com,,,
 84983fb5-52fe-431c-8416-02d3a8486d9e,flaw.church,available,13.5,,medium,low,4,unstoppable,,,29/09/2026 00:57
 7c8a1b27-9cfb-4915-9977-513aec8c83e9,shrugs.church,available,8.48,78.98,medium,low,6,namecheap,,,20/09/2026 12:14
@@ -171,10 +186,12 @@ d506c6ec-4b86-4c76-a3cc-aef170191c2d,vanadium.church,available,14.99,58.99,mediu
 304027bc-efb4-4654-8315-5b1599c783fd,truman.church,available,45.2,45.2,medium,low,6,cloudflare,,,28/09/2026 10:00
 38164a09-11e9-4ae3-a3da-ff9b6221e726,refused.church,available,14.99,58.99,medium,low,7,namesilo,,,18/09/2026 13:40
 7747ca47-ddd4-4465-b847-8d8a8e11f886,decreased.church,available,8.48,78.98,medium,low,9,namecheap,,,13/08/2026 22:08
+2d22de85-4618-4899-bade-4b39eaaf1ca9,bollywood.church,available,7.45,46.78,high,low,9,spaceship,,,30/09/2026 08:37
 73161222-0dee-41df-837b-1a3ac50d2426,dday.church,available,14.99,58.99,high,low,5,namesilo,,,16/09/2026 12:39
 eff43382-3304-4d28-acb5-b9ac6e8eaad4,fee.church,available,13.5,,high,low,3,unstoppable,,,29/09/2026 05:24
 f3aca256-e940-40a1-bb82-c7f8b2d9c765,felt.church,available,8.48,78.98,high,low,4,namecheap,,,25/09/2026 18:07
-7103b467-2e2b-4552-b0ac-7106da120c18,energising.church,available,8.48,78.98,high,low,10,namecheap,,,17/08/2026 06:43
+7103b467-2e2b-4552-b0ac-7106da120c18,energising.church,available,8.48,78.98,medium,low,10,namecheap,,,17/08/2026 06:43
+4be56e7e-7411-4d89-b12e-20da1e3461cd,thucydides.church,available,7.45,46.78,medium,low,10,spaceship,,,30/09/2026 18:58
 c9268c74-2e25-4e24-bab0-dd217edb795b,healer.church,available,7.45,46.78,high,low,6,spaceship,,,30/09/2026 01:51
 9ab7d525-ba80-49a3-895a-359297e62a03,microbic.church,available,8.48,78.98,medium,low,8,namecheap,,,24/08/2026 22:21
 71de238b-45eb-47a0-89a5-f0762a54a895,someway.church,available,8.48,78.98,medium,low,7,namecheap,,,15/09/2026 06:46
@@ -183,9 +200,11 @@ c9268c74-2e25-4e24-bab0-dd217edb795b,healer.church,available,7.45,46.78,high,low
 a78a083d-5bcf-4295-ac56-dcd48448c737,zestful.church,available,8.48,78.98,medium,low,7,namecheap,,,08/08/2026 19:51
 5e877079-1cea-4910-ab3e-2295b19288b5,meets.church,available,14.99,58.99,high,low,5,namesilo,,,27/09/2026 06:26
 c1d1eb23-3452-4676-8a21-c87cbcaa9199,boiling.church,available,8.48,78.98,high,low,7,namecheap,,,14/09/2026 00:51
+177cee0f-620b-4fd7-ac3b-8790e2a458d4,dum.church,available,14.99,58.99,high,low,3,namesilo,,,01/10/2026 04:59
+e679c91e-71ab-479d-aabe-9c3e489cf5c3,echoing.church,available,7.45,46.78,high,low,7,spaceship,,,30/09/2026 03:52
 f7ed1983-2083-47a9-bd25-5213a3d20b14,threadbare.church,available,8.48,78.98,medium,low,10,namecheap,,,08/08/2026 11:10
 619518ba-13db-4b85-a320-aa52d1cdfa79,tamed.church,available,8.48,78.98,high,low,5,namecheap,,,11/09/2026 07:46
-8945e7d7-f568-4378-83a7-3a723a47c196,leslie.church,available,14.99,58.99,high,low,6,namesilo,,,25/09/2026 14:15
+8945e7d7-f568-4378-83a7-3a723a47c196,leslie.church,available,14.99,58.99,medium,low,6,namesilo,,,25/09/2026 14:15
 116a31af-4ac2-4e60-8abf-c839c4927c73,mesonic.church,available,8.48,78.98,medium,low,7,namecheap,,,24/08/2026 21:09
 efab057c-1ec1-4f8f-b417-76505a00d06c,bleep.church,available,14.99,58.99,high,low,5,namesilo,,,23/09/2026 01:26
 4920c225-9aa4-4e22-9616-b4ed2a372d4d,interaction.church,available,7.45,46.78,high,low,11,spaceship,,,29/09/2026 04:54
@@ -201,12 +220,16 @@ d13dc79e-266b-4d4a-87d4-a84ba49a2edd,aeolian.church,available,8.48,78.98,medium,
 bb4c1e03-ba5b-4141-bc15-8f82507c82ec,polynomial.church,available,8.48,78.98,high,low,10,namecheap,,,03/09/2026 10:48
 11ce01f7-7c7b-4f3b-949f-539b6db46275,boundary.church,available,14.99,58.99,high,low,8,namesilo,,,23/09/2026 01:32
 e77b8ec3-ec09-4b92-8b8e-92fcef2bc8a2,scrimmage.church,available,14.99,58.99,high,low,9,namesilo,,,22/09/2026 16:24
+ac22f63c-782b-46d1-9b69-dd6972dc2bba,mosby.church,available,13.5,,medium,low,5,unstoppable,,,30/09/2026 05:30
+1694bffc-8cba-479f-9c89-8df9d195121a,shanxi.church,available,14.99,58.99,medium,low,6,namesilo,,,30/09/2026 13:24
+a1a2e804-b147-4647-b673-587e1ffe330a,chromosome.church,available,6.64,48.37,medium,low,10,dynadot,,,30/09/2026 09:09
 f473dba0-6d7b-4b4d-a32f-c27985688409,alternatives.church,available,8.48,78.98,medium,low,12,namecheap,,,19/09/2026 21:34
 16bb9977-6071-4d56-93c4-4f6afa6e1acb,prohibited.church,available,8.48,78.98,medium,low,10,namecheap,,,08/08/2026 13:48
-3e9f627d-1b94-4a01-981f-8b2bacbe581e,buttonwood.church,available,11.99,58.99,high,low,10,name.com,,,18/09/2026 20:34
+3e9f627d-1b94-4a01-981f-8b2bacbe581e,buttonwood.church,available,11.99,58.99,medium,low,10,name.com,,,18/09/2026 20:34
 a6742a2c-2134-410e-9306-8a8de8a35652,regulations.church,available,14.99,58.99,medium,low,11,namesilo,,,28/09/2026 04:25
 6a21df98-63d8-4114-bc09-0b89472ae11b,shrek.church,available,,,high,medium,5,,,,
 2ebcc981-8dac-43b6-b261-318054b5fbc1,exonerated.church,available,8.48,78.98,high,low,10,namecheap,,,
+9a9f0a89-e6cf-4ee6-bdc4-6823188b0ec8,eventual.church,available,13.5,,high,low,8,unstoppable,,,30/09/2026 14:31
 9a2c4c59-6df9-4cdd-88a1-2a2dae3a44ad,admissions.church,available,45.2,45.2,medium,low,10,cloudflare,,,29/09/2026 11:17
 e9c442af-e19a-4084-8fae-c597e30fde4b,dentistry.church,available,14.99,58.99,high,low,9,namesilo,,,24/09/2026 21:55
 56360689-76a3-468f-aad4-75f7c893d70e,cali.church,premium,102.67,102.67,high,low,4,spaceship,,,29/09/2026 05:53
@@ -217,12 +240,12 @@ fc7dd375-a668-44f8-a2f5-41fb078ea560,jalisco.church,available,14.99,58.99,high,l
 cfb7b7f4-69c8-4415-ad0c-671f4bed4cd6,conserve.church,available,14.99,58.99,high,low,8,namesilo,,,24/09/2026 17:27
 ffa3c36d-8cfe-44e4-bf36-26c55c7709a3,specializing.church,available,8.48,78.98,medium,low,12,namecheap,,,20/09/2026 06:01
 b7e4d8b4-d733-4604-a52a-88626227f2ff,indigen.church,available,8.48,78.98,medium,low,7,namecheap,,,03/09/2026 13:47
-b292e137-e4b1-4f55-acde-9045b465a68b,sip.church,available,11.99,,high,low,3,name.com,,,
+b292e137-e4b1-4f55-acde-9045b465a68b,sip.church,available,8.48,78.98,high,low,3,namecheap,,,30/09/2026 11:16
 bd429c8f-ab0c-4170-b039-8189f9f555a8,thrilly.church,available,8.48,78.98,medium,low,7,namecheap,,,18/09/2026 19:36
 46f5ae7f-7842-4875-8908-82e79645ce67,barong.church,available,8.48,78.98,medium,low,6,namecheap,,,22/09/2026 07:38
-5ac505d7-0c33-4c8f-8819-49f6c8bab7b2,blab.church,available,8.48,78.98,high,low,4,namecheap,,,23/09/2026 23:33
+5ac505d7-0c33-4c8f-8819-49f6c8bab7b2,blab.church,available,8.48,78.98,medium,low,4,namecheap,,,23/09/2026 23:33
 4ebf58e3-cfb8-41a7-b4c6-a304a56b2309,deserved.church,available,8.48,78.98,high,low,8,namecheap,,,14/08/2026 03:27
-7339903a-e9a2-4c8f-8ece-550cafc80ff2,supervise.church,available,11.99,,high,low,9,name.com,,,
+7339903a-e9a2-4c8f-8ece-550cafc80ff2,supervise.church,available,7.45,46.78,high,low,9,spaceship,,,30/09/2026 05:05
 3775b6b8-4e56-4fad-a9d8-db53c70aabeb,everett.church,premium,85.8,85.8,high,low,7,namecheap,,,25/09/2026 21:45
 aa18bea8-f4fc-4c4f-bb60-0d8109516e59,exulting.church,available,8.48,78.98,high,low,8,namecheap,,,17/08/2026 19:44
 bf2deec8-43a8-404e-be32-b876926d09de,migrator.church,available,8.48,78.98,medium,low,8,namecheap,,,24/08/2026 22:51
@@ -232,27 +255,35 @@ f5b9a525-9159-422e-894e-875c7883019c,onager.church,available,14.99,58.99,medium,
 b51bcaca-7ef0-41ec-b874-d8a9c3e0fe0c,lewes.church,available,7.45,46.78,medium,low,5,spaceship,,,28/09/2026 23:03
 f141b8d8-eb4b-45fb-bbac-b13dd2d44102,wasnt.church,available,11.99,,low,low,5,name.com,,,
 48714340-e48e-4fb5-8fd7-ec12b68541cf,knee.church,available,14.99,58.99,high,low,4,namesilo,,,20/09/2026 11:27
+6b55b7da-616f-4979-9dd6-3d740d4ea19f,ilya.church,available,7.45,46.78,high,low,4,spaceship,,,30/09/2026 13:44
+96a1b4c2-0ed4-406a-82b5-0674351dc8c5,gotha.church,available,14.99,58.99,medium,low,5,namesilo,,,30/09/2026 13:38
 5968cbd6-9d65-4647-ad7d-950413c23cbe,fitfully.church,available,8.48,78.98,medium,low,8,namecheap,,,14/09/2026 18:43
+1a64c14a-40fa-460c-8a20-137380aa35b1,cassandra.church,available,6.64,48.37,high,low,9,dynadot,,,30/09/2026 08:59
 905fd844-a7da-456a-936b-b13b6d5e01a4,belted.church,available,8.48,78.98,medium,low,6,namecheap,,,09/08/2026 14:02
-16c925e9-66c8-42d9-abac-c0c3e3b2a28e,shopping.church,available,11.99,,high,low,8,name.com,,,
+16c925e9-66c8-42d9-abac-c0c3e3b2a28e,shopping.church,available,7.45,46.78,high,low,8,spaceship,,,30/09/2026 11:13
 f310f141-e7e1-41e1-ae10-25500a970092,balarama.church,available,8.48,78.98,medium,low,8,namecheap,,,21/09/2026 21:06
 5f685ce4-dfb0-4683-941b-0a3b556df409,binghamton.church,available,14.99,58.99,medium,low,10,namesilo,,,23/09/2026 17:34
 c46884ce-6ca5-44de-a906-56423aa52ada,gumptious.church,available,8.48,78.98,medium,low,9,namecheap,,,20/08/2026 20:57
 65a9eae6-044e-466b-87ad-4b522c4c55ba,arched.church,available,8.48,78.98,medium,low,6,namecheap,,,06/08/2026 14:34
 7f716965-825a-4691-ba3a-a54910b74bd5,trunk.church,available,14.99,58.99,high,low,5,namesilo,,,21/09/2026 07:24
+4d4c9b75-5cc8-4fd2-a322-b52a744a9e03,flashback.church,available,8.48,78.98,high,low,9,namecheap,,,30/09/2026 17:20
 ac35c624-afc1-4d80-a4f9-1fddab7249bb,selfmade.church,available,8.48,78.98,high,low,9,namecheap,,,10/09/2026 02:03
 c4f65ef0-cf22-44ea-ad49-e3cd38c8e950,tritely.church,available,14.99,58.99,low,low,7,namesilo,,,16/09/2026 09:30
-bfcabec4-c97f-42e0-a4a0-597e1a00dd5b,include.church,available,11.99,,high,low,7,name.com,,,
+bfcabec4-c97f-42e0-a4a0-597e1a00dd5b,include.church,available,45.2,45.2,high,low,7,cloudflare,,,30/09/2026 20:19
 ddb89b4e-1ac7-494f-bed0-f31baa385019,infuriated.church,available,8.48,78.98,medium,low,10,namecheap,,,
 4f186268-21e5-4b6d-a76c-6cec964fb1c6,asat.church,available,8.48,78.98,medium,low,4,namecheap,,,05/08/2026 19:31
 14f66584-27d8-48ad-9ce2-f1115be36a3b,tabular.church,available,8.48,78.98,high,low,7,namecheap,,,11/09/2026 06:55
-e2935c15-d2bf-4333-97f9-8303a73868e8,satirical.church,available,8.48,78.98,high,low,9,namecheap,,,09/09/2026 21:49
+e2935c15-d2bf-4333-97f9-8303a73868e8,satirical.church,available,8.48,78.98,medium,low,9,namecheap,,,09/09/2026 21:49
 c5a20a32-c20e-41dd-88d5-3b3b2f6fe6b2,undyed.church,available,8.48,78.98,medium,low,6,namecheap,,,12/09/2026 02:08
+669ac3a2-0f86-47b1-8568-458e4f090d85,xinhua.church,available,13.5,,medium,low,6,unstoppable,,,30/09/2026 05:40
 b3501d87-f5b7-4338-b44f-a6dac5c31e13,entertaining.church,available,13.5,,high,low,12,unstoppable,,,28/09/2026 07:00
-1b06edce-d94d-486f-a8e7-64a1a5f5b78c,organization.church,available,7.45,46.78,high,low,12,spaceship,,,28/09/2026 03:32
+6eb3bb59-e589-465c-b3af-91398d73b09a,priesthood.church,available,14.99,58.99,high,low,10,namesilo,,,30/09/2026 10:54
+1b06edce-d94d-486f-a8e7-64a1a5f5b78c,organization.church,available,45.2,45.2,high,low,12,cloudflare,,,30/09/2026 13:36
 de4d8567-1877-4801-ad66-2c64ff4b726a,decree.church,available,45.2,45.2,high,low,6,cloudflare,,,29/09/2026 18:35
 a8113516-d3b9-4f0b-afc7-2148b404d0c9,flutter.church,available,8.48,78.98,high,low,7,namecheap,,,18/08/2026 07:48
+8a83c86c-75de-4601-abcf-2d1e3b010900,outcrop.church,available,14.99,58.99,high,low,7,namesilo,,,01/10/2026 03:11
 d853ac81-3bad-467d-b76b-3d5775169651,pan.church,available,14.99,58.99,high,low,3,namesilo,,,29/09/2026 11:32
+22e1fd39-5310-4895-9320-0f94af34468b,tread.church,available,7.45,46.78,high,low,5,spaceship,,,30/09/2026 02:58
 a2a6856b-0cbd-48cd-84b4-33de1e861278,arendt.church,available,14.99,58.99,medium,low,6,namesilo,,,20/09/2026 03:43
 68538a28-243d-4017-a657-6e542430fcd7,weeds.church,available,13.5,,high,low,5,unstoppable,,,29/09/2026 08:19
 2f1ecf64-3112-490e-9f65-bf95b7322d4b,pliny.church,available,9.99,99.99,medium,low,5,godaddy,,,28/09/2026 01:57
@@ -260,10 +291,10 @@ a2a6856b-0cbd-48cd-84b4-33de1e861278,arendt.church,available,14.99,58.99,medium,
 03331e5b-8e70-4897-9d59-c9a072720e2a,hygienic.church,available,8.48,78.98,high,low,8,namecheap,,,21/08/2026 16:27
 122eb93f-8d26-4152-a5e8-a172695e22c6,glittery.church,available,8.48,78.98,high,low,8,namecheap,,,
 d0de7138-361d-47fd-b9b6-3f4f5ccac02f,azerbaijani.church,available,13.5,,high,low,11,unstoppable,,,29/09/2026 14:18
-f12fcc91-ebc5-460d-afe3-997803d4a553,wong.church,available,14.99,58.99,high,low,4,namesilo,,,26/09/2026 03:13
+f12fcc91-ebc5-460d-afe3-997803d4a553,wong.church,available,14.99,58.99,medium,low,4,namesilo,,,26/09/2026 03:13
 3fee5948-0a38-449f-b7c8-c74231ed8636,gender.church,available,13.5,,high,low,6,unstoppable,,,28/09/2026 14:16
 243dad6a-d352-4b1e-9de3-5bcc60b62973,bontemps.church,available,8.48,78.98,high,low,8,namecheap,,,20/09/2026 08:07
-23cc616e-4c74-4405-97f4-2fb0a1d45e44,electoral.church,available,8.48,78.98,high,low,9,namecheap,,,16/08/2026 02:37
+23cc616e-4c74-4405-97f4-2fb0a1d45e44,electoral.church,available,8.48,78.98,medium,low,9,namecheap,,,16/08/2026 02:37
 4fb3f4ad-3818-42d6-9b1b-58808fbfccb0,como.church,available,14.99,58.99,high,low,4,namesilo,,,27/09/2026 07:01
 85541171-5ef8-4613-8ef7-7592f41652e4,uncreative.church,available,8.48,78.98,medium,low,10,namecheap,,,12/09/2026 06:24
 5fd4a26f-3827-4ecb-9eef-1325a0298da0,bbc.church,available,,,high,medium,3,,,,
@@ -274,6 +305,7 @@ f8bc3843-4925-4362-a1e3-405cbfc75df3,result.church,available,7.45,46.78,high,low
 08a8951b-b30b-41fd-8eae-9b6901dd2314,eighth.church,available,8.48,78.98,high,low,6,namecheap,,,
 8e574804-2aa2-4237-8753-fe569ea18507,natation.church,available,8.48,78.98,medium,low,8,namecheap,,,18/08/2026 08:34
 073477c8-830f-4d36-a260-e7a23b982e7c,gaussian.church,available,8.48,78.98,high,low,8,namecheap,,,18/08/2026 20:52
+3a350c85-35b9-4cf8-bb23-cdeff207d804,crooks.church,available,6.64,48.37,medium,low,6,dynadot,,,30/09/2026 20:36
 b2409cde-c630-40d7-910b-70decd54b70c,prestige.church,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 07:53
 59503fc0-b03e-43e7-88e5-77fa4bc59fc9,astronomical.church,available,45.2,45.2,high,low,12,cloudflare,,,29/09/2026 14:28
 b5c462e9-7a62-4251-9a25-05e5f049acaa,laurie.church,available,14.99,58.99,high,low,6,namesilo,,,25/09/2026 17:15
@@ -283,33 +315,36 @@ c80532d2-8a7d-41d8-bec7-6691f456b001,optically.church,available,8.48,78.98,mediu
 8a59f1bb-1437-4ac7-938d-93c975f2bb6d,anser.church,available,14.99,58.99,medium,low,5,namesilo,,,19/09/2026 12:03
 12f38d4a-38d7-4d2e-b868-0dce05df16f7,osmotic.church,available,8.48,78.98,medium,low,7,namecheap,,,04/09/2026 18:15
 b2ce3b7d-47b2-4e50-84a3-caeb6263a8d6,wholly.church,available,,,high,low,6,,,,
-ac09abc7-e6e3-4558-8281-b2c4c6983ed2,chivalric.church,available,8.48,78.98,high,low,9,namecheap,,,12/08/2026 06:09
+ac09abc7-e6e3-4558-8281-b2c4c6983ed2,chivalric.church,available,8.48,78.98,medium,low,9,namecheap,,,12/08/2026 06:09
 92050c14-f505-4f14-991e-19089781cffc,frowning.church,available,8.48,78.98,medium,low,8,namecheap,,,18/08/2026 16:40
 24a39427-1eff-4ccd-a7e2-e79e0207d7ce,impolite.church,available,8.48,78.98,medium,low,8,namecheap,,,21/08/2026 22:43
 5a09b9e6-e256-41d1-a4c0-3923b6d8f8b1,narcotic.church,available,8.48,78.98,medium,low,8,namecheap,,,03/09/2026 13:12
-25d8a4a8-9c43-420b-aaa2-501c94f15d5b,deflection.church,available,8.48,78.98,high,low,10,namecheap,,,24/09/2026 21:20
-367c94c3-3082-46fb-a8e7-9e5da11ca617,adjuvant.church,available,8.48,78.98,high,low,8,namecheap,,,
+25d8a4a8-9c43-420b-aaa2-501c94f15d5b,deflection.church,available,8.48,78.98,medium,low,10,namecheap,,,24/09/2026 21:20
+367c94c3-3082-46fb-a8e7-9e5da11ca617,adjuvant.church,available,8.48,78.98,medium,low,8,namecheap,,,
+01ed810a-526a-4904-9c58-17c5ce74280f,standpoint.church,resell,,,high,low,10,,,,01/10/2026 03:19
 4b99f41c-eb34-4ba2-8c84-9f0a1e73113f,uncurbed.church,available,8.48,78.98,medium,low,8,namecheap,,,12/09/2026 04:34
 3b82514a-b6c5-4e09-a98f-54f5873087af,betting.church,available,8.48,78.98,high,low,7,namecheap,,,09/08/2026 18:14
 b0fcf87b-70bd-4b88-95a0-c75da929765f,twinned.church,available,8.48,78.98,high,low,7,namecheap,,,24/08/2026 16:58
-933a7c0b-ade1-4020-a202-046b50f317a7,isotropic.church,available,8.48,78.98,high,low,9,namecheap,,,22/08/2026 11:28
+933a7c0b-ade1-4020-a202-046b50f317a7,isotropic.church,available,8.48,78.98,medium,low,9,namecheap,,,22/08/2026 11:28
 3577f438-5655-4b33-9829-a2f0df8114fd,admit.church,available,14.99,58.99,high,low,5,namesilo,,,26/09/2026 00:34
 5d034f85-1b32-4351-aa1e-74f2b34f540c,back.church,available,8.48,78.98,high,low,4,namecheap,,,22/09/2026 15:40
 4deda7f6-64e6-4b54-b92f-d2c3d948743f,consulted.church,available,8.48,78.98,medium,low,9,namecheap,,,29/09/2026 16:59
 3b8bfdea-a9c5-4e6a-af7a-fdfe858cff09,scaly.church,available,8.48,78.98,medium,low,5,namecheap,,,23/08/2026 00:05
 b0aff643-8641-4cb8-96be-2ea64efb0fac,transcend.church,available,8.48,78.98,high,low,9,namecheap,,,11/09/2026 17:23
-03a93485-78d2-4565-99e2-e589e355c125,criticise.church,available,11.99,,high,low,9,name.com,,,
+03a93485-78d2-4565-99e2-e589e355c125,criticise.church,available,8.48,78.98,high,low,9,namecheap,,,30/09/2026 18:08
 5e6ee0a2-1688-47a9-a565-df2f3ad3f292,howling.church,available,8.48,78.98,high,low,7,namecheap,,,21/08/2026 14:24
 c3280319-b667-4d02-9800-7a435bef375a,refreshed.church,available,14.99,58.99,high,low,9,namesilo,,,25/09/2026 11:08
 9e224a7d-340c-4162-8687-173b95df38ce,anouilh.church,available,14.99,58.99,medium,low,7,namesilo,,,19/09/2026 11:52
 9c13c38b-7c4a-406e-8669-6b9eaeb1c1ba,corrections.church,available,11.99,58.99,high,low,11,name.com,,,17/09/2026 22:27
+32d54763-5c0d-4570-8246-f43e5a1ebca6,alfonso.church,available,13.5,,high,low,7,unstoppable,,,30/09/2026 20:57
 49c59f06-6be1-43eb-a15f-fe4f6ceb6ced,sulawesi.church,available,45.2,45.2,medium,low,8,cloudflare,,,30/09/2026 01:01
 c1f8bd77-3beb-4fb4-9ecf-a8d4006bed32,sagely.church,available,8.48,78.98,medium,low,6,namecheap,,,16/09/2026 00:31
-8c64e30f-51a4-4343-a4ef-720ec6358880,danceable.church,available,11.99,58.99,high,low,9,name.com,,,13/08/2026 16:59
+8c64e30f-51a4-4343-a4ef-720ec6358880,danceable.church,available,11.99,58.99,medium,low,9,name.com,,,13/08/2026 16:59
 dedbd2d3-7ea1-47d6-af13-6d547d91b3be,drearily.church,available,8.48,78.98,medium,low,8,namecheap,,,14/09/2026 13:12
 c0818820-bdc2-4e5b-af46-7143386fe393,sexual.church,available,7.45,46.78,high,low,6,spaceship,,,27/09/2026 20:20
 8a00a2ac-18f7-4850-9b6c-7414d852bab5,divers.church,available,11.99,,high,low,6,name.com,,,
 7ec97972-8121-418a-b5ab-48b88926b7c9,barrelfish.church,available,8.48,78.98,medium,low,10,namecheap,,,22/09/2026 08:20
+a438fa22-e3c5-4ee1-a5e7-b5ab5032f4a1,puppets.church,available,14.99,58.99,medium,low,7,namesilo,,,30/09/2026 15:48
 459682c5-9dc9-41eb-83f1-a5c86524d0bd,tornado.church,available,45.2,45.2,high,low,7,cloudflare,,,29/09/2026 11:57
 cdddf721-b3eb-4165-b19a-61be6366ac69,bezzant.church,available,14.99,58.99,low,low,7,namesilo,,,23/09/2026 12:17
 0020296e-6358-4af9-bee5-28564c7639f0,healthy.church,resell,,,high,low,7,"Sav.com, LLC - 25",09/03/2026 15:15,09/03/2027 15:15,26/09/2026 06:36
@@ -317,6 +352,7 @@ cdddf721-b3eb-4165-b19a-61be6366ac69,bezzant.church,available,14.99,58.99,low,lo
 a99332e4-dea5-478b-b9ed-b72ca8942e22,glaucous.church,available,8.48,78.98,medium,low,8,namecheap,,,20/08/2026 14:16
 5fe67e2c-f13c-4993-b7a5-1a38279916f5,chemicals.church,available,14.99,58.99,medium,low,9,namesilo,,,28/09/2026 08:24
 d926a72a-d013-46a2-99ee-ced18b4bad3f,small.church,resell,,,high,low,5,"Sav.com, LLC - 24",09/03/2026 15:15,09/03/2027 15:15,29/09/2026 19:21
+b59afdde-8d4e-4fac-a841-07dc390fb9bd,governed.church,available,14.99,58.99,high,low,8,namesilo,,,30/09/2026 09:56
 617801c2-6ab0-46bf-9271-c52e36ecf21d,developmental.church,available,14.99,58.99,medium,low,13,namesilo,,,29/09/2026 02:36
 f4cbb3a3-05a9-4858-ad92-8a80486888ef,levodopa.church,available,14.99,58.99,high,low,8,namesilo,,,23/09/2026 07:46
 a804e8c6-e002-46d9-a248-a08d94dc8eae,convincing.church,available,14.99,58.99,high,low,10,namesilo,,,23/09/2026 22:56
@@ -328,7 +364,7 @@ b8a3b27d-4cc4-4e45-b648-fa43c0bf6df5,labels.church,available,14.99,58.99,medium,
 ebf71057-264c-4a70-b442-7497288c2cec,sweetish.church,available,8.48,78.98,medium,low,8,namecheap,,,11/09/2026 05:36
 9ae749ea-e0ca-4741-8c36-e6b387a1d686,gibbs.church,available,14.99,58.99,high,low,5,namesilo,,,25/09/2026 06:33
 bcd11bbb-5100-4824-8ce5-3790d978ea6d,napoleonic.church,available,8.48,78.98,medium,low,10,namecheap,,,03/09/2026 13:00
-14435a12-efa1-4391-a964-c7b9f7317672,oldham.church,premium,108.9,108.9,high,low,6,dynadot,,,28/09/2026 05:16
+14435a12-efa1-4391-a964-c7b9f7317672,oldham.church,premium,108.9,108.9,medium,low,6,dynadot,,,28/09/2026 05:16
 6f322d32-52a4-40ff-89a6-3db053e1e73f,westwards.church,available,8.48,78.98,medium,low,9,namecheap,,,13/09/2026 11:02
 721d0e48-95e7-4d8b-bd03-da97cca1e166,filetypes.church,available,14.99,58.99,low,low,9,namesilo,,,20/09/2026 01:57
 043eaba8-9710-4f34-8457-64ff244be791,jennifer.church,available,14.99,58.99,high,low,8,namesilo,,,25/09/2026 14:21
@@ -337,9 +373,9 @@ bcd11bbb-5100-4824-8ce5-3790d978ea6d,napoleonic.church,available,8.48,78.98,medi
 cf384f9b-582c-4851-a077-19aee8385d2d,equatorial.church,available,8.48,78.98,high,low,10,namecheap,,,17/08/2026 11:40
 55ed165b-83b9-440e-af0d-5cc287a034ef,inject.church,available,7.45,46.78,high,low,6,spaceship,,,29/09/2026 20:43
 7189ce2e-5514-43d1-9eef-8ff58646885b,hereto.church,available,8.48,78.98,medium,low,6,namecheap,,,15/09/2026 00:34
-5d9e0fdc-d275-4296-be1e-7e855ae60afa,shoulders.church,available,11.99,,high,low,9,name.com,,,
+5d9e0fdc-d275-4296-be1e-7e855ae60afa,shoulders.church,available,11.99,,medium,low,9,name.com,,,
 37e6589f-2921-44c1-becd-5e895c210b56,xavier.church,available,8.48,78.98,high,low,6,namecheap,,,25/09/2026 10:30
-d3641a99-fb29-47dd-b155-0fb9f81ab7f2,agonizing.church,available,8.48,78.98,high,low,9,namecheap,,,
+d3641a99-fb29-47dd-b155-0fb9f81ab7f2,agonizing.church,available,8.48,78.98,medium,low,9,namecheap,,,
 016cfbfb-b542-4075-be22-d4aa5d1d9d17,breastfeed.church,available,11.99,,high,low,11,name.com,,,
 88b92a90-e3b4-47ea-9851-7134b330a6fc,damask.church,available,11.99,58.99,medium,low,6,name.com,,,13/08/2026 16:09
 f56594c0-b226-4644-b0d4-dcdf214d84b3,capacitive.church,available,8.48,78.98,medium,low,10,namecheap,,,11/08/2026 17:49
@@ -364,15 +400,16 @@ c022e779-d3cc-4163-ba52-5d5288746dce,untested.church,available,8.48,78.98,medium
 a1f9dc7b-9a1f-4953-920b-dc74acf3934d,longish.church,available,8.48,78.98,medium,low,7,namecheap,,,24/08/2026 09:40
 944a3211-316c-40e8-986a-0b9c9899c6cc,lengthy.church,available,8.48,78.98,medium,low,7,namecheap,,,14/08/2026 18:32
 0bc69639-0e2e-4226-8265-31925bb96cb7,ditch.church,available,14.99,58.99,high,low,5,namesilo,,,24/09/2026 23:15
-203d74c7-03ff-4443-bec9-fae369b5fe82,opener.church,available,7.45,46.78,high,low,6,spaceship,,,28/09/2026 20:02
+203d74c7-03ff-4443-bec9-fae369b5fe82,opener.church,available,7.45,46.78,medium,low,6,spaceship,,,28/09/2026 20:02
 c53f92e3-9ca5-4dcc-bb2a-cef9d24381ff,investigators.church,available,7.45,46.78,medium,low,13,spaceship,,,29/09/2026 00:00
-ac7d24dc-0fc5-468a-9145-1349f35d20e4,how.church,resell,,,high,low,3,"Name.com, Inc.",18/09/2014 07:40,18/09/2027 07:40,26/09/2026 06:44
+5efd2d75-f48d-4ae7-aed8-ce5f66dd9251,silva.church,available,14.99,58.99,high,low,5,namesilo,,,30/09/2026 02:53
+ac7d24dc-0fc5-468a-9145-1349f35d20e4,how.church,resell,,,high,low,3,"Name.com, Inc.",18/09/2014 07:40,18/09/2027 07:40,30/09/2026 22:12
 4f7fd962-7432-43ba-b63f-0a59fa9dbfb3,indoaryan.church,available,8.48,78.98,medium,low,10,namecheap,,,06/08/2026 23:56
 88d3d0da-4eef-4b05-9822-a52cbbfb9217,federate.church,available,8.48,78.98,high,low,8,namecheap,,,18/08/2026 00:36
 3254a404-2af9-44bb-856e-326d7ff1fe3a,iodized.church,available,8.48,78.98,medium,low,7,namecheap,,,22/08/2026 09:18
 4d55ad01-19ea-41a8-a532-b3b58b2dc917,banal.church,available,14.99,58.99,medium,low,5,namesilo,,,22/09/2026 16:37
 c16ab648-be4c-421b-b674-0faa7216d101,indiscreet.church,available,8.48,78.98,medium,low,10,namecheap,,,22/08/2026 03:07
-0b19bcba-9b4d-4d6e-92e7-27dc329a3c6f,perfective.church,available,8.48,78.98,high,low,10,namecheap,,,08/09/2026 16:27
+0b19bcba-9b4d-4d6e-92e7-27dc329a3c6f,perfective.church,available,8.48,78.98,medium,low,10,namecheap,,,08/09/2026 16:27
 f143f8e1-e1af-46e9-a69b-a66288efed5a,aeneas.church,available,8.48,78.98,medium,low,6,namecheap,,,17/09/2026 12:27
 ee53e05a-41a4-47fa-9b8f-5c4f3d4da0e1,additive.church,available,8.48,78.98,high,low,8,namecheap,,,
 b01b6c2c-34b3-4959-b206-1079079f9d96,ephemeron.church,available,8.48,78.98,medium,low,9,namecheap,,,17/08/2026 10:22
@@ -382,7 +419,9 @@ b01b6c2c-34b3-4959-b206-1079079f9d96,ephemeron.church,available,8.48,78.98,mediu
 ec8db088-b719-41b1-bd16-34682b09c484,hayes.church,available,14.99,58.99,high,low,5,namesilo,,,28/09/2026 05:58
 21472c18-748d-4e9b-98e5-2c2be43e8c4c,exceptional.church,available,13.5,,high,low,11,unstoppable,,,28/09/2026 11:15
 8117e656-edd6-4443-b4f0-9a6f8e88d337,phoned.church,available,45.2,45.2,medium,low,6,cloudflare,,,30/09/2026 00:38
+38e2555c-5644-4ad0-ac2a-301ee259082d,aristocracy.church,available,14.99,58.99,high,low,11,namesilo,,,30/09/2026 14:25
 e8b61b93-29a8-42f3-be21-7048ce25b6f0,win.church,resell,,,high,medium,3,Dynadot Inc,10/06/2026 17:00,10/06/2027 17:00,26/09/2026 10:10
+8eb8af4b-14bf-414c-9e34-432ae3bc8581,lassen.church,available,14.99,58.99,medium,low,6,namesilo,,,30/09/2026 05:22
 08b17253-c7e8-4972-8893-f7c7f982d2c3,reasons.church,available,8.48,78.98,medium,low,7,namecheap,,,25/09/2026 20:13
 5e31e18a-60f9-4e86-b599-4b2b68d34748,britton.church,available,14.99,58.99,medium,low,7,namesilo,,,28/09/2026 12:10
 65f0c598-036a-42e0-ad83-7cc5c9cd641d,bucolic.church,available,8.48,78.98,high,low,7,namecheap,,,06/08/2026 14:14
@@ -398,6 +437,7 @@ db3f4c28-86b5-47cb-be4d-af28e7b8840e,oft.church,available,8.48,78.98,high,low,3,
 30dc3ab8-a9e7-4b20-a28f-a212ece2c48c,appearances.church,available,14.99,58.99,low,low,11,namesilo,,,28/09/2026 23:35
 a938d209-5882-4723-ad1b-82e6b42b599c,ltd.church,available,14.99,58.99,high,low,3,namesilo,,,25/09/2026 11:58
 4b589cf5-e3fe-4948-82d9-3d507b6ed7ac,commitment.church,available,8.48,78.98,high,low,10,namecheap,,,18/09/2026 10:59
+b10a5153-414f-4a63-b02f-eee6d09d12c2,colfax.church,available,14.99,58.99,medium,low,6,namesilo,,,30/09/2026 13:56
 4ddd45bc-c9d3-4afd-873e-006ca0bdacfb,blamed.church,available,8.48,78.98,medium,low,6,namecheap,,,10/08/2026 12:39
 e25b95ce-7467-4a2b-aa9b-523780537029,motherhood.church,available,45.2,45.2,high,low,10,cloudflare,,,29/09/2026 19:42
 5a2f6b70-50e9-40ea-9b6c-339a1ddf34b0,striking.church,available,8.48,78.98,high,low,8,namecheap,,,27/09/2026 07:25
@@ -417,11 +457,13 @@ c7821c57-f707-4cdc-9bee-8d5b055bb12b,tortured.church,available,8.48,78.98,medium
 9be1807c-9be6-456a-9956-2f4541024a28,miner.church,available,7.45,46.78,high,low,5,spaceship,,,29/09/2026 19:40
 c6072b37-18fa-4aad-a7c7-e8523b4e69aa,airbrake.church,available,14.99,58.99,medium,low,8,namesilo,,,17/09/2026 22:58
 a8668bda-8573-4e20-85ce-e7930a8273d7,shuddering.church,available,8.48,78.98,medium,low,10,namecheap,,,10/09/2026 07:02
+4ee13ff4-b052-4bbc-8da7-06ae67ff70b7,mirror.church,available,8.48,78.98,high,low,6,namecheap,,,30/09/2026 04:41
 5331c935-9925-4cca-9fa1-361bc1311e85,accessary.church,available,8.48,78.98,medium,low,9,namecheap,,,
 3bb21c00-5661-4a44-a10a-f7f9b76b4787,looney.church,available,8.48,78.98,medium,low,6,namecheap,,,13/08/2026 05:34
 8be13ba3-ad57-420f-8115-c345f620a706,literary.church,available,13.5,78.98,high,low,8,unstoppable,,,28/09/2026 07:59
 63cb4203-9bd0-4ead-8ddd-18b4c3d3927f,daedal.church,available,11.99,58.99,medium,low,6,name.com,,,13/08/2026 15:30
 8789a871-55a0-45e4-bbc9-0ce4a7ed840e,aweigh.church,available,8.48,78.98,low,low,6,namecheap,,,07/08/2026 14:29
+9154f60c-234d-4efe-acce-681cc0c07c04,thoroughbred.church,available,14.99,58.99,high,low,12,namesilo,,,01/10/2026 05:36
 d14f29d1-b4c1-4d1c-b69a-e997699675f6,warty.church,available,8.48,78.98,medium,low,5,namecheap,,,13/09/2026 04:24
 700f9ffc-b097-4de2-95c2-249530baf4b7,historian.church,available,14.99,58.99,high,low,9,namesilo,,,29/09/2026 13:03
 4c573d7b-65ad-46c0-bfe2-24f7d5091590,michelson.church,available,14.99,58.99,medium,low,9,namesilo,,,16/09/2026 12:52
@@ -430,7 +472,7 @@ d14f29d1-b4c1-4d1c-b69a-e997699675f6,warty.church,available,8.48,78.98,medium,lo
 81ee58b9-5579-4926-89cf-8e30755dbcf2,honeybee.church,available,14.99,58.99,high,low,8,namesilo,,,19/09/2026 17:30
 6694bcf2-2d4a-45cf-9892-9f7778c9568a,ataractic.church,available,8.48,78.98,low,low,9,namecheap,,,07/08/2026 12:44
 c01b63f7-43aa-4c24-ab6c-4d886ee28e41,poorly.church,available,14.99,58.99,medium,low,6,namesilo,,,25/09/2026 07:34
-be3a20be-972f-41f8-8b47-5f80828869e5,apophatic.church,available,8.48,78.98,high,low,9,namecheap,,,06/08/2026 02:27
+be3a20be-972f-41f8-8b47-5f80828869e5,apophatic.church,available,8.48,78.98,medium,low,9,namecheap,,,06/08/2026 02:27
 35e51e29-79e9-4ec1-9ee2-82cefd70fcd8,allophonic.church,available,8.48,78.98,medium,low,10,namecheap,,,
 a79f35f9-5251-4fdd-a6e6-aaf05a4a017b,musique.church,available,14.99,58.99,high,low,7,namesilo,,,29/09/2026 10:25
 375d1a06-0da3-48fc-9005-32fd57cf0b3d,sunburn.church,available,8.48,78.98,high,low,7,namecheap,,,11/09/2026 07:53
@@ -438,20 +480,20 @@ bcc2b760-fe80-4c47-8a35-8112b96b97dc,gastropod.church,available,8.48,78.98,mediu
 a2f5ce74-70f5-4f33-b07d-15e90c7cf795,off.church,available,14.99,58.99,high,low,3,namesilo,,,22/09/2026 14:54
 f3bb9e3b-b431-4637-9bd6-b43c76acaf7d,arapahoe.church,available,14.99,58.99,medium,low,8,namesilo,,,20/09/2026 00:11
 bf128f25-9a81-4dbc-8b2f-0f5b7dd50176,murderer.church,available,14.99,58.99,medium,low,8,namesilo,,,25/09/2026 08:59
-9eb3eaec-09ca-44f5-8b56-467d5764c93e,verb.church,available,8.48,78.98,high,low,4,namecheap,,,25/09/2026 15:12
+9eb3eaec-09ca-44f5-8b56-467d5764c93e,verb.church,available,14.99,58.99,high,low,4,namesilo,,,30/09/2026 14:26
 f7a640c5-8a76-4c8d-8952-00bcd88179e8,colonized.church,available,8.48,78.98,medium,low,9,namecheap,,,12/08/2026 17:23
 f9dd5a74-fd87-4d15-8a55-b535837d1bfa,williams.church,available,8.48,78.98,high,low,8,namecheap,,,23/09/2026 09:47
 aaf42ea3-b59d-486c-97a4-306384503899,shouter.church,available,14.99,58.99,medium,low,7,namesilo,,,22/09/2026 17:05
 8c8a01dd-f48c-4769-9f94-138370eaed74,dahna.church,available,14.99,58.99,medium,low,5,namesilo,,,19/09/2026 23:21
 637dea97-f7e6-4561-b852-c88bbc55e3aa,swollen.church,available,14.99,58.99,high,low,7,namesilo,,,23/09/2026 18:42
-1eedb0c8-c12c-44e2-a3bd-398f8db42572,blistering.church,available,8.48,78.98,high,low,10,namecheap,,,
+1eedb0c8-c12c-44e2-a3bd-398f8db42572,blistering.church,available,8.48,78.98,medium,low,10,namecheap,,,
 50940bd5-451b-4b97-b4b2-39cff6b9a588,knowing.church,available,8.48,78.98,high,low,7,namecheap,,,25/09/2026 10:04
 54ebe74b-f4e7-40b3-88f5-2fc1fe8f0a42,vere.church,available,14.99,58.99,medium,low,4,namesilo,,,29/09/2026 04:28
-daf62a0c-7022-49c3-bd5b-593db1c0b99d,reverting.church,available,8.48,78.98,high,low,9,namecheap,,,09/09/2026 15:58
+daf62a0c-7022-49c3-bd5b-593db1c0b99d,reverting.church,available,8.48,78.98,medium,low,9,namecheap,,,09/09/2026 15:58
 36ab841a-692d-479c-a14a-613c72e0a573,wolff.church,available,14.99,58.99,high,low,5,namesilo,,,25/09/2026 23:22
 bb5bcea0-3530-4c3f-99bd-a6021dea8561,initiator.church,available,7.45,46.78,high,low,9,spaceship,,,29/09/2026 13:07
 e49fe3ce-111d-4288-b3e0-fdbdf386234e,rules.church,available,11.99,,high,low,5,name.com,,,
-1c1912a0-ce18-4adc-a645-7ca42f254a81,barbarian.church,available,8.48,78.98,high,low,9,namecheap,,,08/08/2026 15:26
+1c1912a0-ce18-4adc-a645-7ca42f254a81,barbarian.church,available,8.48,78.98,medium,low,9,namecheap,,,08/08/2026 15:26
 98e54f89-bea7-4be5-ab73-e70c21acf531,bodiless.church,available,8.48,78.98,high,low,8,namecheap,,,10/08/2026 16:48
 e0fec900-de36-41f4-af23-f5f404ad38b8,enlarged.church,available,14.99,58.99,high,low,8,namesilo,,,22/09/2026 22:37
 757ba871-8b0e-49e7-b43f-f26e7a8d6d8f,emory.church,resell,,,high,low,5,,,,29/09/2026 15:34
@@ -465,7 +507,7 @@ c4f093ba-0f93-4efd-a7c0-7c13930aa972,funded.church,available,8.48,78.98,high,low
 cfd4bb12-89ec-415a-838a-272be1f8fdda,tarawa.church,available,8.48,78.98,medium,low,6,namecheap,,,21/09/2026 19:26
 dc5b192c-b6a8-4bcc-8ac1-1a4669fce24c,democratic.church,available,14.99,58.99,high,low,10,namesilo,,,24/09/2026 05:46
 541ceee7-acf9-44eb-a871-211875c05178,ground.church,resell,,,high,low,6,"Sav.com, LLC",23/09/2025 18:32,23/09/2027 18:32,29/09/2026 17:40
-181df5c2-f7fc-4ad0-8553-8999ddd0d1d3,plentitude.church,available,8.48,78.98,high,low,10,namecheap,,,15/09/2026 20:35
+181df5c2-f7fc-4ad0-8553-8999ddd0d1d3,plentitude.church,available,8.48,78.98,medium,low,10,namecheap,,,15/09/2026 20:35
 d82fff3c-d37c-441f-9fef-bde373988415,lobe.church,available,45.2,45.2,high,low,4,cloudflare,,,29/09/2026 19:33
 0f3a8992-cc92-42e6-ae57-557eb6a4cca5,infidel.church,available,8.48,78.98,high,low,7,namecheap,,,18/08/2026 21:58
 7058d412-4990-4f85-9e9a-952ee7ad8b0f,slapdash.church,available,8.48,78.98,medium,low,8,namecheap,,,10/09/2026 09:57
@@ -482,25 +524,28 @@ ab911400-e520-4fec-aac4-9806b0af4989,gladiolus.church,available,8.48,78.98,high,
 0928fc9d-fc03-487e-bfaf-cd478cfcc8cf,judicious.church,available,8.48,78.98,high,low,9,namecheap,,,21/08/2026 02:00
 0f442e89-b019-45d2-8709-a9e6d349ef25,rooftop.church,available,6.69,46.86,high,low,7,porkbun,,,29/09/2026 20:13
 105914c4-4020-49df-b676-b662bb57125c,duane.church,available,45.2,45.2,medium,low,5,cloudflare,,,27/09/2026 19:56
+8b30866d-f244-4aa2-9932-a0b62dfd5514,sindh.church,available,13.5,,medium,low,5,unstoppable,,,30/09/2026 13:12
 045b2c5a-c96c-428f-ac5b-8aaa0acceafd,cryptic.church,available,8.48,78.98,high,low,7,namecheap,,,11/08/2026 12:17
-2ee4f0fc-fe3e-4972-8239-78e318a6f60e,baykal.church,available,8.48,78.98,high,low,6,namecheap,,,21/09/2026 18:56
+2ee4f0fc-fe3e-4972-8239-78e318a6f60e,baykal.church,available,8.48,78.98,medium,low,6,namecheap,,,21/09/2026 18:56
 6e122c8a-4fcc-4d77-830f-21bef1b083f9,scalene.church,available,8.48,78.98,medium,low,7,namecheap,,,09/09/2026 22:25
 2419b1dd-601e-4653-bef3-c67206edc1d3,cascade.church,resell,,,high,medium,7,,,,30/09/2026 01:01
-f1a1f9ed-bbf5-4f61-8986-8fb3c93db186,jiangsu.church,premium,42.9,42.9,high,low,7,namecheap,,,29/09/2026 09:39
+f1a1f9ed-bbf5-4f61-8986-8fb3c93db186,jiangsu.church,premium,42.9,42.9,medium,low,7,namecheap,,,29/09/2026 09:39
 1f91e9f3-b6b4-4f70-8e1f-769cb7af6b3d,dehydrate.church,available,8.48,78.98,medium,low,9,namecheap,,,14/08/2026 03:38
+c7852a16-c125-45e1-a8b7-ee6e1ded45e1,settles.church,available,13.5,,medium,low,7,unstoppable,,,30/09/2026 07:18
 08c564dc-934d-4a5f-affc-ba4b2379d7c1,invaders.church,available,14.99,58.99,medium,low,8,namesilo,,,30/09/2026 00:36
 6892db03-33a7-4e6a-9808-c2bad5ff80d5,particularly.church,available,14.99,58.99,medium,low,12,namesilo,,,27/09/2026 08:28
 5fb72885-f0f5-444a-bed3-bc3fe7653993,gruff.church,available,8.48,78.98,high,low,5,namecheap,,,13/08/2026 11:25
 ba4cd5fa-2399-476c-a949-13bf7d42ef3f,piffle.church,available,8.48,78.98,medium,low,6,namecheap,,,21/09/2026 21:41
 f12b46f4-72b9-456f-94a4-196b715a2aa4,again.church,available,14.99,58.99,medium,low,5,namesilo,,,28/09/2026 11:49
-fa5b0b60-5ebb-4245-af98-472007cbd335,ivanov.church,available,7.45,46.78,high,low,6,spaceship,,,29/09/2026 01:22
+fa5b0b60-5ebb-4245-af98-472007cbd335,ivanov.church,available,7.45,46.78,medium,low,6,spaceship,,,29/09/2026 01:22
 bc49a408-21c8-4e41-a964-65a353598a17,heartsease.church,available,8.48,78.98,medium,low,10,namecheap,,,20/09/2026 19:40
-0b176e03-137c-4093-8788-0bc55e401f1c,medium.church,available,7.45,46.78,high,low,6,spaceship,,,28/09/2026 03:02
+0b176e03-137c-4093-8788-0bc55e401f1c,medium.church,available,7.45,46.78,high,low,6,spaceship,,,30/09/2026 05:58
 8a39072e-4fdb-415c-be1a-5926b4432d9f,wakeful.church,available,8.48,78.98,medium,low,7,namecheap,,,04/09/2026 16:03
 964bdee9-1890-44c9-8abd-f73e5227a2d3,raiment.church,available,8.48,78.98,medium,low,7,namecheap,,,19/09/2026 19:57
 716352ed-d74f-444e-bb4f-aa2e5c4fcfbd,yeltsin.church,available,6.69,46.86,medium,low,7,porkbun,,,28/09/2026 22:09
 5f1bda87-2b7b-410f-932d-6d0bfb19bca6,kurosawa.church,available,14.99,58.99,medium,low,8,namesilo,,,18/09/2026 00:08
-48379297-7e77-4f54-b8a0-c32a91ea4710,qualifier.church,available,11.99,,high,low,9,name.com,,,
+48379297-7e77-4f54-b8a0-c32a91ea4710,qualifier.church,available,14.99,58.99,high,low,9,namesilo,,,30/09/2026 04:52
+8f8ab606-908f-4e41-b1cb-c3ee5d7e8504,bondholders.church,available,14.99,58.99,medium,low,11,namesilo,,,30/09/2026 16:25
 a95b0768-1771-4abb-b986-767e0bd2030e,amidships.church,available,8.48,78.98,medium,low,9,namecheap,,,
 2589350c-eb63-4620-a290-9d3494985963,stimulated.church,available,8.48,78.98,medium,low,10,namecheap,,,10/09/2026 20:42
 021473bf-e816-4c81-9680-2d1bd6d62aa4,advances.church,available,14.99,58.99,medium,low,8,namesilo,,,28/09/2026 23:36
@@ -512,7 +557,10 @@ f326b99c-da66-4012-8d48-73330c3a48c9,mla.church,available,14.99,58.99,high,low,3
 e5f4494e-d6a2-4834-a173-b0c1731db040,locking.church,available,7.45,46.78,medium,low,7,spaceship,,,28/09/2026 06:12
 468bacf7-0fbd-4a33-b81e-62ff34bfa324,observant.church,available,8.48,78.98,high,low,9,namecheap,,,22/08/2026 21:19
 471824fd-2203-46d3-8f36-8514064344ce,upmarket.church,available,8.48,78.98,high,low,8,namecheap,,,12/09/2026 23:13
+927a15ee-a0d9-421d-9f37-9524a540e2ad,tumble.church,available,7.45,46.78,medium,low,6,spaceship,,,30/09/2026 19:03
+9d0ddd61-e9c6-4792-9322-550f5e4b7ccd,woodwork.church,available,14.99,58.99,high,low,8,namesilo,,,30/09/2026 16:36
 0a6c33b4-2263-4eb5-ba1f-5041319019b9,pants.church,available,8.48,78.98,high,low,5,namecheap,,,24/09/2026 06:17
+7aff9f5e-9202-46ad-aa9f-3410ae6effd1,roscoe.church,available,14.99,58.99,medium,low,6,namesilo,,,30/09/2026 11:51
 cac8eb35-2719-44c3-82f4-832967c4f17d,concepts.church,available,6.64,48.37,medium,low,8,dynadot,,,29/09/2026 22:50
 972306ec-faa3-435e-b023-7ba47ae669ce,astronomic.church,available,8.48,78.98,medium,low,10,namecheap,,,07/08/2026 10:10
 3295b5b6-3e4f-421e-adbb-6da21069662e,pauli.church,available,8.48,78.98,high,low,5,namecheap,,,29/09/2026 07:50
@@ -521,7 +569,8 @@ a142cf29-9012-4bd2-b7e3-5fa5955cfe49,sprayer.church,available,14.99,58.99,high,l
 0861341e-ab9c-4db6-9fb1-e23b3f60f785,maple.church,resell,,,high,medium,5,,,,28/09/2026 06:21
 34ebb307-6f32-4302-904b-3ee09057df31,arrange.church,available,14.99,58.99,high,low,7,namesilo,,,25/09/2026 22:15
 56322ae6-3f14-4e49-8948-f883c729c7d1,ethiopian.church,available,8.48,78.98,high,low,9,namecheap,,,17/08/2026 13:47
-a3fe48da-15f1-4b80-b45c-c4cfe2b62a64,scrubbed.church,available,7.45,46.78,high,low,8,spaceship,,,27/09/2026 18:56
+49763636-de19-49e7-9538-b9bc731ef15d,strachan.church,available,7.45,46.78,medium,low,8,spaceship,,,30/09/2026 23:17
+a3fe48da-15f1-4b80-b45c-c4cfe2b62a64,scrubbed.church,available,7.45,46.78,medium,low,8,spaceship,,,27/09/2026 18:56
 7e9e23c3-6c67-4e8e-b43e-4dce893298ec,bifurcate.church,available,8.48,78.98,high,low,9,namecheap,,,09/08/2026 20:08
 55355b57-f3ee-4aa5-9b24-ea38ae6cd088,aesthesis.church,available,14.99,58.99,medium,low,9,namesilo,,,17/09/2026 13:32
 28b6a38a-9775-4701-bb17-e37fd68bb1ec,avidness.church,available,14.99,58.99,medium,low,8,namesilo,,,21/09/2026 09:29
@@ -552,7 +601,7 @@ df0929b4-6df9-44fd-9f70-946c65933cd4,flower.church,resell,,,high,low,6,"Sav.com,
 ee265a92-b23f-4216-89c6-8609d3f023c5,belittling.church,available,8.48,78.98,medium,low,10,namecheap,,,09/08/2026 13:10
 d6a4910d-8bdb-4363-94d7-fc68dc5d90bd,niches.church,available,8.48,78.98,medium,low,6,namecheap,,,20/09/2026 09:56
 2d99704b-4647-4690-beef-af482bc6a311,amnesiac.church,available,8.48,78.98,medium,low,8,namecheap,,,
-63002498-9294-455c-8ecb-4284d185ed4f,wobbly.church,available,14.99,58.99,high,low,6,namesilo,,,27/09/2026 14:59
+63002498-9294-455c-8ecb-4284d185ed4f,wobbly.church,available,14.99,58.99,medium,low,6,namesilo,,,27/09/2026 14:59
 41d78718-4526-4f97-ba52-98ecb0c34c8a,monet.church,available,6.64,48.37,high,low,5,dynadot,,,29/09/2026 18:23
 de61af12-cb16-4cb7-b17b-95ad3e49a77b,salmon.church,available,8.48,78.98,high,low,6,namecheap,,,27/09/2026 03:51
 81e6db9d-4dee-4d25-ab1e-5887a757a16c,barleycorn.church,available,14.99,58.99,medium,low,10,namesilo,,,22/09/2026 06:31
@@ -563,7 +612,10 @@ be87f180-414d-4493-927c-757448c35471,ripening.church,available,8.48,78.98,high,l
 76573f6e-79e5-4042-aa7e-c888bca7cd0a,height.church,available,8.48,78.98,high,low,6,namecheap,,,25/09/2026 19:39
 d6ac9bd0-378b-4c46-b9c4-bffede5d1e6f,metro.church,resell,,,high,high,5,,,,28/09/2026 06:24
 83a34c3b-0536-4505-8b0e-9d362173c19b,redly.church,available,8.48,78.98,medium,low,5,namecheap,,,15/09/2026 22:51
-61139344-fedf-4fd5-903e-dfdd376990d7,viola.church,available,13.5,,high,low,5,unstoppable,,,29/09/2026 07:04
+1bd26b32-a6b7-46b1-b5b0-b74d746a2d4b,sorting.church,available,7.45,46.78,high,low,7,spaceship,,,30/09/2026 02:57
+61139344-fedf-4fd5-903e-dfdd376990d7,viola.church,available,13.5,,medium,low,5,unstoppable,,,29/09/2026 07:04
+5ac54711-95fc-4a91-b6de-6f92044c5c80,afi.church,available,8.48,78.98,high,low,3,namecheap,,,30/09/2026 20:06
+fac85f87-b649-4dae-aaff-4cb2054b9380,certification.church,available,6.64,48.37,medium,low,13,dynadot,,,30/09/2026 14:36
 b6695f15-5005-495b-a6d6-176324aa7df9,pavement.church,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 07:50
 1e2ff565-3904-4906-9df6-4eb235d1794e,wessex.church,available,8.48,78.98,medium,low,6,namecheap,,,29/09/2026 08:19
 8272a74a-39dc-4c66-af4f-1a03f552822e,bacca.church,available,14.99,58.99,high,low,5,namesilo,,,21/09/2026 13:55
@@ -584,7 +636,9 @@ cd2f7c47-9742-4969-b92b-363f477326c3,stargazer.church,available,8.48,78.98,high,
 7ecc8383-d84c-4dd0-9acf-99b2fa02774c,defending.church,available,8.48,78.98,high,low,9,namecheap,,,13/08/2026 23:13
 10e30e17-618b-499d-a699-0f5b14cb558d,blankly.church,available,8.48,78.98,medium,low,7,namecheap,,,14/09/2026 00:13
 9b70ee23-b3d3-494a-a4f2-838c8d513912,phases.church,available,14.99,58.99,medium,low,6,namesilo,,,18/09/2026 14:38
+e4b0796c-12dd-4b57-a573-916a5ecf195c,hamish.church,available,7.45,46.78,medium,low,6,spaceship,,,30/09/2026 21:04
 56801034-e421-4ba0-89b9-9b3a5d6d4fd3,reminder.church,available,7.45,46.78,high,low,8,spaceship,,,28/09/2026 18:51
+d3ead933-98f2-491d-b067-b460c5b26456,handcuffs.church,available,14.99,58.99,medium,low,9,namesilo,,,30/09/2026 14:17
 ad3baa78-1093-412f-866d-67b94dd662f1,plumbers.church,available,14.99,58.99,medium,low,8,namesilo,,,20/09/2026 11:13
 437973e4-6aea-432d-9e52-874d9a3a5a1c,laconic.church,available,8.48,78.98,medium,low,7,namecheap,,,22/08/2026 18:14
 ca6548be-67d1-41e0-9430-cbf9882432ed,dances.church,available,11.99,,high,low,6,name.com,,,
@@ -595,19 +649,22 @@ dadd7fe2-42b5-4525-9bfa-c8feb2a25dd3,hooper.church,available,7.45,46.78,medium,l
 8014991a-19f2-426e-a127-e629dca37a43,toothy.church,available,8.48,78.98,medium,low,6,namecheap,,,11/09/2026 17:20
 966103d3-f77b-488b-8163-4650b5f4d5a1,organismal.church,available,8.48,78.98,medium,low,10,namecheap,,,04/09/2026 17:47
 53c87492-5003-4165-bc47-0413ff1c74be,ingress.church,available,8.48,78.98,medium,low,7,namecheap,,,22/08/2026 01:52
-e7243c96-aec4-41b3-838b-4866f76edc99,possessive.church,available,8.48,78.98,high,low,10,namecheap,,,18/08/2026 21:44
+e7243c96-aec4-41b3-838b-4866f76edc99,possessive.church,available,8.48,78.98,medium,low,10,namecheap,,,18/08/2026 21:44
 083e891c-00d6-478a-85ba-ca464985c982,bach.church,available,11.99,58.99,high,low,4,name.com,,,21/09/2026 14:07
 69d8a542-869d-448f-95f7-560a750bf061,luminary.church,available,8.48,78.98,high,low,8,namecheap,,,03/09/2026 22:03
 859ffcfb-9fac-404a-8160-5c57437146f6,hawke.church,available,45.2,45.2,medium,low,5,cloudflare,,,29/09/2026 15:41
 98521016-ab06-4052-9e35-0d5eae31918a,mccall.church,available,8.48,78.98,medium,low,6,namecheap,,,27/09/2026 21:08
-9cc5e960-09e3-4d66-a180-9bd233a52576,noetic.church,available,8.48,78.98,high,low,6,namecheap,,,22/08/2026 07:52
+9cc5e960-09e3-4d66-a180-9bd233a52576,noetic.church,available,8.48,78.98,medium,low,6,namecheap,,,22/08/2026 07:52
 48734eed-0895-441c-bc31-e96d01cd6b0d,impervious.church,available,8.48,78.98,medium,low,10,namecheap,,,21/08/2026 22:19
 5de65023-89fb-4430-a6e3-369f4a239080,scandent.church,available,8.48,78.98,medium,low,8,namecheap,,,09/09/2026 22:32
 124f8f1f-27fb-4ab7-ab6a-cc4c13ad2148,promised.church,available,8.48,78.98,high,low,8,namecheap,,,17/09/2026 11:24
-fa87790b-6545-4fff-b791-4c5feb94091d,comstock.church,available,14.99,58.99,high,low,8,namesilo,,,19/09/2026 13:40
+fa87790b-6545-4fff-b791-4c5feb94091d,comstock.church,available,14.99,58.99,medium,low,8,namesilo,,,19/09/2026 13:40
 6a6f663c-4eff-4a5b-8b5a-a142ed8e019e,babe.church,available,7.45,46.78,high,low,4,spaceship,,,29/09/2026 00:05
 5afad46d-bd04-40ba-a335-242fcc310acc,aerie.church,available,,,high,medium,5,,,,
+d6de28d6-ce61-4b48-8438-c06b7e9720b9,clusters.church,available,7.45,46.78,medium,low,8,spaceship,,,30/09/2026 22:40
+7f29556e-07a2-4119-b956-bbed2c822f38,kota.church,available,7.45,46.78,high,low,4,spaceship,,,30/09/2026 02:06
 472d7917-9f4a-4bd2-9761-92ccc67c6f57,tearing.church,available,8.48,78.98,high,low,7,namecheap,,,11/09/2026 09:42
+3bec73fc-a688-44fd-876a-55b460d700fd,judgments.church,available,7.45,46.78,medium,low,9,spaceship,,,30/09/2026 15:26
 74cd4400-1376-4dc6-9235-7c882a266600,conga.church,available,14.99,58.99,high,low,5,namesilo,,,24/09/2026 17:17
 7396971e-3e34-4c4b-a008-0d3526287d46,pedal.church,available,8.48,78.98,high,low,5,namecheap,,,08/09/2026 12:17
 aa3eea9c-6614-48ac-8434-c6d0d88ca6f7,gramme.church,available,7.45,46.78,high,low,6,spaceship,,,29/09/2026 20:16
@@ -617,13 +674,15 @@ d7810266-c610-4897-a0ab-38a1a538209e,aerobics.church,available,14.99,58.99,high,
 c06a0394-09f9-4ed4-ae9c-e4465f65336c,wilfred.church,available,7.45,46.78,medium,low,7,spaceship,,,28/09/2026 07:49
 554a8bd2-6692-4604-ad7d-bbf8e1555da9,stalin.church,available,14.99,58.99,medium,low,6,namesilo,,,29/09/2026 13:10
 b81f91ef-2e79-43ee-a4b1-96fe1d34aeba,scouser.church,available,8.48,78.98,medium,low,7,namecheap,,,24/08/2026 08:11
-86515351-02cf-4e77-84ac-7f904eec7ae7,patiently.church,available,8.48,78.98,high,low,9,namecheap,,,15/09/2026 19:20
-d9400aec-a1a1-4cff-a9d3-f29c2a767ed7,conan.church,available,7.45,46.78,high,low,5,spaceship,,,28/09/2026 07:59
+86515351-02cf-4e77-84ac-7f904eec7ae7,patiently.church,available,8.48,78.98,medium,low,9,namecheap,,,15/09/2026 19:20
+d9400aec-a1a1-4cff-a9d3-f29c2a767ed7,conan.church,available,7.45,46.78,medium,low,5,spaceship,,,28/09/2026 07:59
 1be444fe-c394-4a24-bc68-af9d5ff721c7,forking.church,available,8.48,78.98,medium,low,7,namecheap,,,11/08/2026 02:19
 b1ccac13-d562-490b-8df7-e519feacfb85,unexplained.church,available,13.5,,high,low,11,unstoppable,,,29/09/2026 23:36
+89045d31-7df1-40fd-9b46-3057bf425125,darien.church,available,14.99,58.99,medium,low,6,namesilo,,,30/09/2026 13:31
 0abd4764-7bba-44bb-90d7-fa5ee62bbd4f,lip.church,available,13.5,,high,low,3,unstoppable,,,29/09/2026 00:19
 90be7ad0-758e-4c12-8fad-9a357d7ecd00,prostitutes.church,available,45.2,45.2,low,low,11,cloudflare,,,28/09/2026 23:58
 087e4fd5-8273-4d26-b135-60e8e3947391,grayer.church,available,14.99,58.99,medium,low,6,namesilo,,,21/09/2026 02:20
+5328042d-3205-402f-871a-2db922d9898e,syd.church,available,14.99,58.99,high,low,3,namesilo,,,30/09/2026 22:00
 ce70d89e-b775-4fc3-a7e7-dc0e52979ee4,afterlife.church,available,8.48,78.98,high,low,9,namecheap,,,15/09/2026 00:23
 9ccd187d-eba7-433e-9f96-9dfe3a30e454,disgusted.church,available,8.48,78.98,medium,low,9,namecheap,,,14/08/2026 10:30
 e3a97804-3f57-46d2-8224-916ea2ac1d2e,hydroponic.church,available,8.48,78.98,medium,low,10,namecheap,,,06/08/2026 10:34
@@ -632,16 +691,18 @@ e3a97804-3f57-46d2-8224-916ea2ac1d2e,hydroponic.church,available,8.48,78.98,medi
 d9f84545-23c6-4962-b967-72e8deefa977,tersely.church,available,14.99,58.99,medium,low,7,namesilo,,,16/09/2026 08:13
 488fbeb1-af9c-410e-ad34-b5ce614e419e,hexagonal.church,available,8.48,78.98,medium,low,9,namecheap,,,21/08/2026 07:50
 c8480990-dbed-4787-a6ca-c3d394ec8197,disheveled.church,available,8.48,78.98,medium,low,10,namecheap,,,14/08/2026 10:56
-2d43f47e-cef2-4da9-adb7-525cf45646f4,sextet.church,available,8.48,78.98,high,low,6,namecheap,,,
+c2fb13c2-4c20-4621-a8f5-3505a5e1a928,tagore.church,available,13.5,,medium,low,6,unstoppable,,,30/09/2026 02:38
+2d43f47e-cef2-4da9-adb7-525cf45646f4,sextet.church,available,8.48,78.98,medium,low,6,namecheap,,,
 21f3a109-cb51-4c4e-84a3-01608bfe8205,bia.church,available,45.2,45.2,medium,low,3,cloudflare,,,28/09/2026 21:49
 b1780290-9bd2-417d-bf88-4284069ea841,fresh.church,resell,,,high,medium,5,"Sav.com, LLC",21/09/2025 09:52,21/09/2027 09:52,26/09/2026 06:15
 34300019-2aa6-4456-8d38-6030aa951c53,franz.church,available,14.99,58.99,high,low,5,namesilo,,,29/09/2026 15:16
 b8a776f2-b458-41cf-828a-92602223c916,reversion.church,available,8.48,78.98,high,low,9,namecheap,,,09/09/2026 16:19
-319a322d-d89e-46f1-83c9-49c6d43a975f,muhammadan.church,available,8.48,78.98,high,low,10,namecheap,,,25/08/2026 03:21
+319a322d-d89e-46f1-83c9-49c6d43a975f,muhammadan.church,available,8.48,78.98,medium,low,10,namecheap,,,25/08/2026 03:21
 dbe4cf76-1146-411f-b000-788948e76f6a,tactual.church,available,8.48,78.98,medium,low,7,namecheap,,,21/08/2026 00:04
+b7e0dd7e-18c3-4c5a-9962-c21ea732770f,fetus.church,available,6.69,46.86,high,low,5,porkbun,,,30/09/2026 17:18
 26eb0830-97bd-4fe4-b617-9a82fe5553bb,occurring.church,available,11.99,,high,low,9,name.com,,,
 0ad22dc4-8a49-4029-88b4-e3f35cd422e9,grassy.church,available,8.48,78.98,high,low,6,namecheap,,,20/08/2026 18:20
-4753dc1d-0603-4fd4-be54-cead9d2f1ca7,evacuation.church,available,13.5,,high,low,10,unstoppable,,,28/09/2026 09:36
+4753dc1d-0603-4fd4-be54-cead9d2f1ca7,evacuation.church,available,13.5,,medium,low,10,unstoppable,,,28/09/2026 09:36
 8ce4eb5d-0482-42db-88a1-101c5638225c,adduct.church,available,14.99,58.99,medium,low,6,namesilo,,,17/09/2026 07:09
 98649814-8367-460b-9c43-fb49bb248389,lakh.church,available,8.48,78.98,medium,low,4,namecheap,,,21/08/2026 15:36
 9cc9820d-7db3-478b-abe8-5907e343fcd7,antarctic.church,available,8.48,78.98,high,low,9,namecheap,,,
@@ -655,21 +716,26 @@ ce3e896c-58f3-454d-abfc-84171b7d49d9,bap.church,available,14.99,58.99,high,low,3
 b157d22b-01cf-403a-9bd9-918c124b4983,coffeehousing.church,available,8.48,78.98,medium,low,13,namecheap,,,20/09/2026 21:09
 81ed4734-860d-474e-bc59-211cacb181d9,humane.church,available,14.99,58.99,high,low,6,namesilo,,,25/09/2026 06:31
 917e64a7-86a9-48c4-bc7d-b6c55be7c1f0,earlyish.church,available,8.48,78.98,medium,low,8,namecheap,,,14/08/2026 22:29
+887cf5bb-15ed-4e2a-abbf-e02b53fc9005,progressed.church,available,14.99,58.99,medium,low,10,namesilo,,,30/09/2026 14:54
 bfa29adb-69a0-47db-8b5b-ce69c9f1bebc,valiantly.church,available,14.99,58.99,medium,low,9,namesilo,,,16/09/2026 10:36
 856338c3-acb5-463a-9ba6-0da0edffa288,asbestos.church,available,14.99,58.99,high,low,8,namesilo,,,20/09/2026 12:54
+1c211d99-3262-4944-847b-dfd35e6c9b4b,nostalgia.church,available,7.45,46.78,high,low,9,spaceship,,,30/09/2026 10:38
 bd07b5df-1140-4571-a173-9c231615eafe,dillon.church,available,14.99,58.99,high,low,6,namesilo,,,25/09/2026 15:31
 bc24160f-7317-45d9-8738-5ef377102c48,ample.church,available,8.48,78.98,high,low,5,namecheap,,,
 59539182-27a5-42d0-af59-056f5704ae24,tomboys.church,available,14.99,58.99,low,low,7,namesilo,,,20/09/2026 23:15
+8b0688ef-bba0-4a56-bc78-860d381dd9fb,kankakee.church,available,14.99,58.99,medium,low,8,namesilo,,,30/09/2026 22:09
 4e572bc7-09a8-40c2-9b0a-c5a47b9f1e37,wolverhampton.church,available,7.45,46.78,medium,low,13,spaceship,,,29/09/2026 21:58
+4f25c241-42c5-4968-9af0-fcafac46eea5,tremendously.church,available,13.5,,medium,low,12,unstoppable,,,30/09/2026 19:57
 b6271631-6cbb-44c3-8de6-b5cd078a4416,dynamics.church,available,14.99,58.99,high,low,8,namesilo,,,29/09/2026 12:07
 0b0fa1d6-e8d3-424d-8c0f-a57fd913a0c5,trimox.church,available,14.99,58.99,medium,low,6,namesilo,,,18/09/2026 22:57
 63227400-e991-4b6a-ade6-b79856b346b4,squash.church,available,14.99,58.99,high,low,6,namesilo,,,28/09/2026 06:22
-0c3474e5-9df1-4f77-bf5f-11dd51e67725,sashay.church,available,8.48,78.98,high,low,6,namecheap,,,11/09/2026 05:14
+0c3474e5-9df1-4f77-bf5f-11dd51e67725,sashay.church,available,8.48,78.98,medium,low,6,namecheap,,,11/09/2026 05:14
 42d31569-aa99-449a-977e-800757d9bc16,skeptical.church,available,8.48,78.98,medium,low,9,namecheap,,,14/08/2026 09:34
 84d1241a-17be-4932-b6d5-9927200e5884,sees.church,available,11.98,78.98,medium,low,4,namecheap,,,
 17583f57-47b9-4746-9efb-d41f17f960cf,buckle.church,available,7.45,46.78,medium,low,6,spaceship,,,28/09/2026 18:30
 ff8e83f8-fddf-4412-8bd6-cfeb0cb84f9f,maoist.church,available,8.48,78.98,medium,low,6,namecheap,,,24/08/2026 15:38
 bd1905e2-46dd-42ed-a6c9-f3364876d92b,proven.church,available,14.99,58.99,high,low,6,namesilo,,,27/09/2026 08:25
+46eb2854-d8af-4c1a-bf96-6fffaf7877d4,enclosure.church,available,7.45,46.78,high,low,9,spaceship,,,30/09/2026 09:32
 9931d62c-e931-4251-9efe-b078b97d46a8,has.church,available,11.99,,high,low,3,name.com,,,
 2465d625-d8f3-44d8-9d7d-f0e08e4921f6,invested.church,available,6.69,46.86,medium,low,8,porkbun,,,28/09/2026 13:01
 a13081e6-2ebf-4ccc-af8d-7e9a3c269e63,tapped.church,available,8.48,78.98,high,low,6,namecheap,,,11/09/2026 08:19
@@ -688,6 +754,7 @@ d1b672bd-e50f-45fd-9988-5b5024442747,fulgurous.church,available,11.99,58.99,medi
 b67a0a97-6784-42ad-887e-2131bfb50890,birdie.church,available,11.99,58.99,high,low,6,name.com,,,23/09/2026 20:41
 ac683613-efab-489b-abb8-2e111ad328ae,similarity.church,available,45.2,45.2,high,low,10,cloudflare,,,29/09/2026 19:30
 6885fc63-a4b2-4c16-a728-a9f016e01687,sergeant.church,available,7.45,46.78,high,low,8,spaceship,,,28/09/2026 06:37
+0d783227-7163-4929-ac12-a127a012a39c,kinshasa.church,premium,78.54,78.54,high,low,8,namesilo,,,01/10/2026 02:48
 c2a43e3b-d17b-4fd1-a4a4-51eac75e296e,jocose.church,available,8.48,78.98,medium,low,6,namecheap,,,22/08/2026 12:54
 483f0e90-1976-4be2-8e5f-3153f0c005ed,imaginable.church,available,14.99,58.99,high,low,10,namesilo,,,23/09/2026 18:44
 d7735a54-5b1e-44d8-bae5-2792c693d9cc,teenage.church,available,8.48,78.98,high,low,8,namecheap,,,11/09/2026 10:07
@@ -696,6 +763,7 @@ d7735a54-5b1e-44d8-bae5-2792c693d9cc,teenage.church,available,8.48,78.98,high,lo
 a23fc9d5-d04c-4c1f-8530-ea1575b4fc98,transition.church,available,14.99,58.99,high,low,10,namesilo,,,28/09/2026 09:22
 e3ec3cf8-e0c1-4b31-9b4f-4009d5feff39,inaudible.church,available,8.48,78.98,medium,low,9,namecheap,,,22/08/2026 00:33
 a2c7cf06-bd2c-4d15-a840-f05c8274c639,metastatic.church,available,8.48,78.98,medium,low,10,namecheap,,,24/08/2026 21:49
+1a493f15-d54c-4ff1-9032-0f2e849adc15,obtaining.church,available,45.2,45.2,low,low,9,cloudflare,,,30/09/2026 23:25
 916e1a5a-0fbf-459b-9866-aaf27ed3a8ff,saddam.church,available,14.99,58.99,medium,low,6,namesilo,,,25/09/2026 23:11
 c5335bc2-16d2-41f9-bd12-3cc6e97f829e,peiping.church,available,8.48,78.98,medium,low,7,namecheap,,,23/09/2026 04:16
 e30f24f7-12d7-4410-a074-3e0f1bcf9fe9,ernie.church,available,14.99,58.99,high,low,5,namesilo,,,27/09/2026 07:15
@@ -707,9 +775,11 @@ b45bd1dc-95fc-4fec-a719-b6307caa3e98,slanted.church,available,8.48,78.98,medium,
 9aac2246-bb72-4973-85bb-2d99b50f91c4,enormous.church,available,8.48,78.98,high,low,8,namecheap,,,17/08/2026 09:42
 e3d9bc44-59bb-408b-afa4-75fb2332f749,sober.church,available,8.48,78.98,high,low,5,namecheap,,,20/08/2026 18:42
 b38c2863-6fd3-4c30-83ff-01b6a9c20b05,desolation.church,available,14.99,58.99,medium,low,10,namesilo,,,22/09/2026 05:24
+aa2f4b58-8775-4fb4-aabf-1b2a88b56328,dysfunction.church,available,14.99,58.99,high,low,11,namesilo,,,30/09/2026 11:40
 c092dc07-e480-4024-9b99-faf81f8821be,antigua.church,available,8.48,78.98,high,low,7,namecheap,,,19/09/2026 14:32
 f8e0054d-5962-4ca6-bfc2-45757f9a81c6,crashes.church,available,8.48,78.98,low,low,7,namecheap,,,29/09/2026 05:45
 d44214a2-669e-43ef-a09c-b1fcb76cd4d8,stat.church,available,11.99,,high,low,4,name.com,,,
+9a05a420-af3c-4a10-96de-77c045450169,surveying.church,available,14.99,58.99,high,low,9,namesilo,,,01/10/2026 03:58
 bc7bb4b2-84a6-40cf-bac9-d813cc7f59fe,tyranny.church,available,8.48,78.98,medium,low,7,namecheap,,,16/09/2026 18:02
 29d3a187-a905-4a0e-ae40-338121ce23b4,role.church,available,14.99,58.99,high,low,4,namesilo,,,25/09/2026 09:54
 e7b68b82-61c3-4da5-b094-10bcabe2b5bf,delirium.church,available,8.48,78.98,high,low,8,namecheap,,,24/09/2026 21:40
@@ -725,7 +795,7 @@ cd2005fc-2f38-4246-a6e6-5838f825a80a,super.church,resell,,,high,medium,5,Dynadot
 09c036a9-c2c7-41cb-83ab-aeb5a6bb698d,unusable.church,available,8.48,78.98,medium,low,8,namecheap,,,12/09/2026 21:58
 a90e9386-e98a-4cef-b272-5a6f6e99016e,banger.church,available,8.48,78.98,high,low,6,namecheap,,,22/09/2026 01:46
 a6230179-b40a-4a5c-ab92-2309e8ba2e69,hawk.church,available,13.5,,high,low,4,unstoppable,,,28/09/2026 02:04
-32a9041e-c676-4f85-9e1d-08a697df7a2c,tombstone.church,available,7.45,46.78,high,low,9,spaceship,,,29/09/2026 12:58
+32a9041e-c676-4f85-9e1d-08a697df7a2c,tombstone.church,available,7.45,46.78,medium,low,9,spaceship,,,29/09/2026 12:58
 3894969e-3894-44a3-b364-9aea07437edd,hangbird.church,available,14.99,58.99,medium,low,8,namesilo,,,22/09/2026 00:20
 64ceaa8c-3d3d-48b3-a009-b193f8cb9457,valparaiso.church,available,13.5,,medium,low,10,unstoppable,,,29/09/2026 02:28
 c6ffd6ba-4bbe-44d4-a222-7f7606fe562b,lopez.church,available,14.99,58.99,high,low,5,namesilo,,,25/09/2026 12:44
@@ -734,10 +804,11 @@ c6ffd6ba-4bbe-44d4-a222-7f7606fe562b,lopez.church,available,14.99,58.99,high,low
 b56e3bbc-731e-4ffd-bfd3-25248ac74430,candidates.church,available,13.5,,medium,low,10,unstoppable,,,28/09/2026 17:58
 cf2c02fe-89f5-45ad-b862-71f86820ef58,introduces.church,available,14.99,58.99,medium,low,10,namesilo,,,18/09/2026 14:34
 f479c4e0-011d-4e7f-844f-c579e6c7c16a,degrees.church,available,8.48,78.98,medium,low,7,namecheap,,,25/09/2026 17:04
-293ed324-19bf-4435-b6e1-189d19a874fd,benzine.church,available,14.99,58.99,high,low,7,namesilo,,,23/09/2026 08:53
+293ed324-19bf-4435-b6e1-189d19a874fd,benzine.church,available,14.99,58.99,medium,low,7,namesilo,,,23/09/2026 08:53
 a90f1045-c1f7-4356-9f38-8ffa25cd192e,streak.church,available,45.2,45.2,high,low,6,cloudflare,,,27/09/2026 11:41
 8ef7a9c8-3ea5-45ae-911e-314864941887,vesture.church,available,8.48,78.98,medium,low,7,namecheap,,,13/09/2026 09:02
 bd42dd1e-cabf-4a58-a6d9-bbd924396fc8,bce.church,available,14.99,58.99,medium,low,3,namesilo,,,28/09/2026 13:14
+9f7d828c-3f08-4e6d-9b03-5a18a9bc3280,sonya.church,available,14.99,58.99,medium,low,5,namesilo,,,30/09/2026 04:43
 6f008cb0-ee81-4a0d-8c6e-7b84487f2deb,nutritive.church,available,8.48,78.98,high,low,9,namecheap,,,08/09/2026 09:04
 9b6cb227-5f01-456b-8857-ee7683673091,hips.church,available,14.99,58.99,medium,low,4,namesilo,,,28/09/2026 22:48
 360e9494-a71d-4172-b8a2-4088dc37599e,dolan.church,available,14.99,58.99,high,low,5,namesilo,,,28/09/2026 11:39
@@ -749,14 +820,14 @@ af83a2e5-8c5f-42ec-aac5-cfb0f7a83127,pact.church,available,7.45,46.78,high,low,4
 eac0a209-502a-4ff1-a7f7-d1778c14eb64,anemometry.church,available,8.48,78.98,medium,low,10,namecheap,,,19/09/2026 05:18
 571c3b54-6ebc-44fd-a38d-1cac2e3377e2,teaspoons.church,available,14.99,58.99,medium,low,9,namesilo,,,19/09/2026 22:48
 449649fc-1f8f-440f-9e1e-6dfb78753e01,apodictic.church,available,8.48,78.98,medium,low,9,namecheap,,,06/08/2026 01:27
-c6d5a63f-8ef7-4a7d-b395-860e5b62d566,ridicule.church,available,14.99,58.99,high,low,8,namesilo,,,24/09/2026 02:25
+c6d5a63f-8ef7-4a7d-b395-860e5b62d566,ridicule.church,available,14.99,58.99,medium,low,8,namesilo,,,24/09/2026 02:25
 81855cf1-5854-47ee-8472-f5102cd89c45,unrelated.church,available,8.48,78.98,medium,low,9,namecheap,,,12/09/2026 18:04
 fe19974c-c55a-4dfa-8c36-65996cccfd67,amaethon.church,available,8.48,78.98,low,low,8,namecheap,,,18/09/2026 15:34
 5d85766f-9230-43c8-a574-575d1ad3110c,balker.church,available,8.48,78.98,medium,low,6,namecheap,,,03/09/2026 18:54
 18e15667-6f4c-4d1a-8873-c98f44727d8e,drugless.church,available,8.48,78.98,medium,low,8,namecheap,,,14/08/2026 20:11
 81fcea41-908f-4e55-a564-5551d9b10667,saccade.church,available,8.48,78.98,medium,low,7,namecheap,,,22/08/2026 12:47
 928668a6-899a-47c6-a10d-1296fb62e2cc,addled.church,available,8.48,78.98,medium,low,6,namecheap,,,
-315bdf21-6156-481d-9f5b-39e20e48c660,freaking.church,available,11.99,,medium,low,8,name.com,,,
+315bdf21-6156-481d-9f5b-39e20e48c660,freaking.church,available,14.99,58.99,medium,low,8,namesilo,,,01/10/2026 05:49
 dae2ae88-ccbc-4cbc-a2e7-c10734858a7c,policy.church,available,7.45,46.78,high,low,6,spaceship,,,30/09/2026 00:13
 daeffba4-6458-4d57-8c11-5585c774d49b,logically.church,available,8.48,78.98,high,low,9,namecheap,,,15/09/2026 12:41
 5e7f6b3a-4820-4fab-8f6c-3604420221ec,amenities.church,available,8.48,78.98,high,low,9,namecheap,,,18/09/2026 18:52
@@ -764,6 +835,7 @@ daeffba4-6458-4d57-8c11-5585c774d49b,logically.church,available,8.48,78.98,high,
 754ad252-480a-4012-9aef-51ddbc1b3a19,birder.church,available,11.99,58.99,high,low,6,name.com,,,23/09/2026 20:38
 60e39197-59db-491d-8e85-f959733c7055,rash.church,available,8.48,78.98,medium,low,4,namecheap,,,18/08/2026 10:31
 ca44e39c-236e-4593-b045-c8640bc2c226,cara.church,available,8.48,78.98,high,low,4,namecheap,,,28/09/2026 22:02
+88e8fe31-ba41-4cdc-a71b-ab976831bcc4,edie.church,available,7.45,46.78,medium,low,4,spaceship,,,30/09/2026 22:02
 10912266-d304-48d9-9b3a-f30fe1f82296,appall.church,available,14.99,58.99,medium,low,6,namesilo,,,18/09/2026 01:55
 93b6165e-6a37-45c1-9c67-8aa6b4c66c0c,amniote.church,available,14.99,58.99,medium,low,7,namesilo,,,18/09/2026 22:28
 5c21bdbf-e330-4766-8f62-ee5e981125e7,nonfinite.church,available,8.48,78.98,medium,low,10,namecheap,,,03/09/2026 18:26
@@ -773,6 +845,8 @@ a9906196-d0b5-4708-bb40-a43b85b1aa5c,felony.church,available,45.2,45.2,medium,lo
 0a5ab545-a6d3-4c43-89e9-67e4b5e88849,undeveloped.church,available,11.99,,medium,low,11,name.com,,,
 5a6f7159-27b7-4043-b094-adc46ac2e23b,buttony.church,available,8.48,78.98,medium,low,7,namecheap,,,09/08/2026 03:34
 298b8cce-ea3b-4828-906d-a8e04d49bbde,francium.church,available,8.48,78.98,medium,low,8,namecheap,,,20/09/2026 23:59
+b1596b35-706f-49a5-a10d-f4c557a0371b,contemplate.church,available,7.45,46.78,high,low,11,spaceship,,,30/09/2026 11:45
+6c2d3cd4-3a33-423e-a032-33104059d358,preface.church,available,6.64,48.37,high,low,7,dynadot,,,30/09/2026 09:43
 570ac76e-15ea-4e4c-9857-8e40b692d34a,alinement.church,available,14.99,58.99,high,low,9,namesilo,,,18/09/2026 07:48
 14061e75-d088-4679-868b-dfef8bfafaf4,cabbage.church,available,7.45,46.78,high,low,7,spaceship,,,29/09/2026 03:24
 759e4a7f-01bc-48b4-ad9e-aac87efa5fe9,identifying.church,available,8.48,78.98,high,low,11,namecheap,,,29/09/2026 08:55
@@ -782,45 +856,52 @@ a9906196-d0b5-4708-bb40-a43b85b1aa5c,felony.church,available,45.2,45.2,medium,lo
 19119a0b-7ab7-44f9-add8-5a4611e30be2,bandstand.church,available,8.48,78.98,high,low,9,namecheap,,,22/09/2026 01:32
 e85df780-e6e1-4711-8ec0-55367148e6b7,nasal.church,available,8.48,78.98,medium,low,5,namecheap,,,03/09/2026 13:33
 a26b57b9-a3da-4390-b94c-e0bcb4004617,champs.church,available,14.99,58.99,medium,low,6,namesilo,,,20/09/2026 13:31
-5bdab509-6c05-4e53-9223-13d6b6db2591,assault.church,available,14.99,58.99,high,low,7,namesilo,,,20/09/2026 15:48
-61e642ee-ffce-4a3a-be4e-495cd51eaa09,lithuania.church,available,,,high,high,9,,,,
+5bdab509-6c05-4e53-9223-13d6b6db2591,assault.church,available,14.99,58.99,medium,low,7,namesilo,,,20/09/2026 15:48
+0ff801a7-76db-435e-8dca-98e335e8bf31,ultimatum.church,available,7.45,46.78,high,low,9,spaceship,,,30/09/2026 11:14
 f55d2244-59e4-46fa-b8e8-661c3dccd76e,repeats.church,available,14.99,58.99,medium,low,7,namesilo,,,29/09/2026 17:30
 3a91c29d-f474-4876-a3c4-ef85b66f090e,colt.church,available,13.5,,high,low,4,unstoppable,,,28/09/2026 09:25
-378373a9-83c3-4a4d-968b-9aea8a8c5f4e,slovenian.church,available,8.48,78.98,high,low,9,namecheap,,,10/09/2026 11:19
+378373a9-83c3-4a4d-968b-9aea8a8c5f4e,slovenian.church,available,8.48,78.98,medium,low,9,namecheap,,,10/09/2026 11:19
 c1988874-5380-4c8d-af46-14adfd07deae,panoptic.church,available,8.48,78.98,medium,low,8,namecheap,,,
+15d7a98c-aa50-4c72-9e8c-d926da4538ee,hovering.church,available,13.5,,high,low,8,unstoppable,,,30/09/2026 07:20
 142a0e03-e4af-405c-ba90-7a4d0116b21c,ballistics.church,available,14.99,58.99,high,low,10,namesilo,,,21/09/2026 22:57
 3bd4d07c-6ed1-4c41-9783-da8c41f8545f,orphans.church,available,8.48,78.98,low,low,7,namecheap,,,28/09/2026 18:19
 94e9d2e6-4906-4c60-9faa-680653897f3f,forsaking.church,available,14.99,58.99,medium,low,9,namesilo,,,16/09/2026 13:59
 aad86bd4-f42e-40b6-a356-c96027c56750,libraries.church,available,14.99,58.99,medium,low,9,namesilo,,,20/09/2026 00:02
+a4da7ec9-b4f3-45df-af1d-4c4d116a8b71,taping.church,available,6.69,46.86,high,low,6,porkbun,,,01/10/2026 04:01
 c9d2ee0a-e517-457e-9bf8-d994b063a7f0,sitka.church,available,6.64,48.37,high,low,5,dynadot,,,29/09/2026 20:23
 aa1681f9-4a02-4fa5-a7f7-52d091a1be77,approaching.church,available,14.99,58.99,high,low,11,namesilo,,,25/09/2026 11:21
-998a67e3-f06e-4ad8-8938-ea87e657c293,jayne.church,available,6.64,48.37,high,low,5,dynadot,,,29/09/2026 22:03
+998a67e3-f06e-4ad8-8938-ea87e657c293,jayne.church,available,6.64,48.37,medium,low,5,dynadot,,,29/09/2026 22:03
 dc74865f-34ba-4095-bbeb-10d529578a8a,agronomist.church,available,8.48,78.98,medium,low,10,namecheap,,,17/09/2026 19:41
 039ce564-7dbc-4997-97ac-beb701204803,limber.church,available,8.48,78.98,high,low,6,namecheap,,,23/08/2026 11:08
 66d416a2-daa6-464a-9a32-e2aadbfb36c4,retaliation.church,available,14.99,58.99,medium,low,11,namesilo,,,29/09/2026 23:02
 d352d272-ba28-438b-8330-b039386c6136,provoke.church,available,14.99,58.99,high,low,7,namesilo,,,29/09/2026 22:15
 e180eec5-f27f-4e56-b54f-701b4195dfc8,ablution.church,available,14.99,58.99,medium,low,8,namesilo,,,16/09/2026 16:14
+b1bfd30a-19cb-4675-b475-07f76d75ec8f,deprivation.church,available,14.99,58.99,medium,low,11,namesilo,,,30/09/2026 05:47
 172371c6-92d1-45c6-bbdb-97e88db531cd,connell.church,available,45.2,45.2,medium,low,7,cloudflare,,,28/09/2026 22:06
 460f8b16-127d-449c-a061-83012a4c470d,tarry.church,available,8.48,78.98,medium,low,5,namecheap,,,09/09/2026 15:16
+fc4b1b92-3bc6-4dd4-9bf4-22890efda600,khorasan.church,available,45.2,45.2,medium,low,8,cloudflare,,,30/09/2026 21:55
 dd56c77a-1077-4493-963c-7b4aae6d69e6,cui.church,available,7.45,46.78,high,low,3,spaceship,,,29/09/2026 15:08
 e7f3642a-7893-4f6b-9f38-ef00db883f39,hyman.church,available,45.2,45.2,medium,low,5,cloudflare,,,28/09/2026 16:48
 d1171cd6-b499-4da9-b64b-a3b710eb1dc8,stints.church,available,14.99,58.99,medium,low,6,namesilo,,,20/09/2026 14:23
 781991a5-cfe9-4035-821a-5c0fbe21c007,forfeiture.church,available,8.48,78.98,medium,low,10,namecheap,,,18/08/2026 11:45
 a47896f5-7ff5-4460-baed-e19befad88cd,ledge.church,available,7.45,46.78,high,low,5,spaceship,,,29/09/2026 01:33
+fd4c94ab-e16f-43c6-a6b3-b297c103a21e,impulses.church,available,14.99,58.99,medium,low,8,namesilo,,,30/09/2026 14:13
 399c3f45-452e-4a9e-95ab-a35237bb2bca,adorable.church,available,8.48,78.98,high,low,8,namecheap,,,21/09/2026 19:18
 9fd1e645-4ff8-4d76-82c3-5758ef22ade6,mislabeled.church,available,8.48,78.98,medium,low,10,namecheap,,,25/08/2026 01:21
 858485ab-cc10-4c2d-82ff-eebd1b384cde,humdrum.church,available,8.48,78.98,medium,low,7,namecheap,,,21/08/2026 15:05
 26da2991-90ca-4331-88b8-89b9ef2e7846,forthcoming.church,available,7.45,46.78,high,low,11,spaceship,,,29/09/2026 14:27
+a77d51b9-ef02-4df4-b730-7e84a226120e,kcal.church,available,14.99,58.99,high,low,4,namesilo,,,30/09/2026 12:30
 1b03b7c8-28e4-4723-8376-3ebff3e1cf82,functional.church,available,14.99,58.99,high,low,10,namesilo,,,28/09/2026 13:05
 100ec0fe-7210-4baf-a86c-e13b39749d55,grocery.church,available,8.48,78.98,high,low,7,namecheap,,,08/09/2026 13:48
 afc91936-bd38-457e-9e91-9c6f8c19fffd,newcomb.church,available,14.99,58.99,high,low,7,namesilo,,,29/09/2026 13:33
 9d4176d3-2213-4e12-b61f-be160656d988,airlift.church,available,14.99,58.99,high,low,7,namesilo,,,17/09/2026 23:13
-cb42fc8e-d269-4b4f-a870-b2919354f0c3,destructive.church,available,11.99,,medium,low,11,name.com,,,
+cb42fc8e-d269-4b4f-a870-b2919354f0c3,destructive.church,available,14.99,58.99,medium,low,11,namesilo,,,30/09/2026 23:46
 32dfb227-a5aa-4e3f-812a-dffe0fdc621b,below.church,available,14.99,58.99,high,low,5,namesilo,,,24/09/2026 12:01
 cd9c1d26-e074-4ed1-8db9-2b10c49b37e7,backpacker.church,available,14.99,58.99,high,low,10,namesilo,,,21/09/2026 15:44
 e16edc78-da83-4819-be31-42ea69758dd4,bladder.church,available,14.99,58.99,high,low,7,namesilo,,,24/09/2026 03:26
 500d5817-1902-46fa-ab03-6b3984eb107d,ferris.church,available,45.2,45.2,medium,low,6,cloudflare,,,28/09/2026 22:04
-4fb04492-e664-49a5-9a91-13e912d32750,earthbound.church,available,8.48,78.98,high,low,10,namecheap,,,14/08/2026 22:37
+b2f9e732-5259-4b42-9c4b-c37e3ec512d9,ellery.church,available,13.5,,medium,low,6,unstoppable,,,30/09/2026 13:23
+4fb04492-e664-49a5-9a91-13e912d32750,earthbound.church,available,8.48,78.98,medium,low,10,namecheap,,,14/08/2026 22:37
 a31ad5a7-7034-49f1-8d28-e6e9f1559d33,rested.church,available,14.99,58.99,high,low,6,namesilo,,,27/09/2026 12:50
 27983476-9e4a-4370-88de-1ca70cdbb5a2,aranyaka.church,available,8.48,78.98,medium,low,8,namecheap,,,20/09/2026 00:08
 361aaccf-41d4-4165-87ea-dd085e4e0f0c,griffiths.church,available,14.99,58.99,medium,low,9,namesilo,,,26/09/2026 03:40
@@ -830,14 +911,15 @@ fc643565-8cef-4a40-b6b4-5dd8475f4f4f,horseshoe.church,available,13.5,,high,low,9
 d8171b22-f47c-4c9e-9924-69983eed67eb,tuscany.church,available,7.45,46.78,high,low,7,spaceship,,,27/09/2026 16:08
 4c8bf264-0fae-4a2c-8e8b-ab161c6d2ca8,grooved.church,available,8.48,78.98,medium,low,7,namecheap,,,20/08/2026 20:17
 500bb632-7f3b-4b7e-bf3d-859ce9575aa8,edward.church,available,14.99,58.99,high,low,6,namesilo,,,18/09/2026 02:39
-29d28d99-3474-4f59-bb1b-c33444d508f5,dextrous.church,available,8.48,78.98,high,low,8,namecheap,,,13/08/2026 23:53
-2155605f-bdf9-4f66-8422-05cfb00b2411,scheme.church,available,11.99,,high,low,6,name.com,,,
+29d28d99-3474-4f59-bb1b-c33444d508f5,dextrous.church,available,8.48,78.98,medium,low,8,namecheap,,,13/08/2026 23:53
+2155605f-bdf9-4f66-8422-05cfb00b2411,scheme.church,available,7.45,46.78,high,low,6,spaceship,,,30/09/2026 10:40
 069dbd0c-2f32-43b4-bd87-b00e3d1c1a57,rooibos.church,available,14.99,58.99,medium,low,7,namesilo,,,20/09/2026 14:38
 6fc60ef1-faaa-496b-b3fe-d9122c67d1df,chant.church,available,11.99,58.99,high,low,5,name.com,,,24/09/2026 13:41
-4a489dae-6b84-4be5-8bd4-7990cbb51827,speculation.church,available,11.99,,high,low,11,name.com,,,
+4a489dae-6b84-4be5-8bd4-7990cbb51827,speculation.church,available,11.99,,medium,low,11,name.com,,,
 2ad7474b-d467-43d0-829e-49c6e5bdd40e,unequaled.church,available,8.48,78.98,high,low,9,namecheap,,,12/09/2026 09:09
 9590951a-8828-4ab5-8459-266421ba5745,wilful.church,available,8.48,78.98,medium,low,6,namecheap,,,18/08/2026 16:39
 6a62e958-652f-48d7-927d-6cf604f085c4,sized.church,available,8.48,78.98,high,low,5,namecheap,,,10/09/2026 09:15
+b65d138c-1e4b-4414-8bfb-063ae6d865c1,rainfall.church,available,13.5,,high,low,8,unstoppable,,,30/09/2026 10:55
 f949e8e6-e773-4a7a-b236-3f2e21a3c668,albums.church,available,13.5,,low,low,6,unstoppable,,,29/09/2026 05:39
 91f8a161-cfe4-4ab3-aac1-ac012e493425,waterborne.church,available,8.48,78.98,medium,low,10,namecheap,,,13/09/2026 08:36
 2f6ed1cb-31ad-431f-b5b6-ebda5290b488,childish.church,available,8.48,78.98,high,low,8,namecheap,,,12/08/2026 05:02
@@ -845,6 +927,7 @@ f949e8e6-e773-4a7a-b236-3f2e21a3c668,albums.church,available,13.5,,low,low,6,uns
 860a87cb-44e1-4b01-832c-ab3b66503b21,carnation.church,available,8.48,78.98,high,low,9,namecheap,,,11/08/2026 19:26
 f6a51e8f-249a-461e-8075-d245bde9415a,trice.church,available,8.48,78.98,medium,low,5,namecheap,,,22/08/2026 07:32
 695070e4-e9e2-4fc7-ba81-e102fb04df41,features.church,available,14.99,58.99,medium,low,8,namesilo,,,28/09/2026 12:52
+fda7367b-c460-40b9-ab55-3379ebfb58ad,displaced.church,available,7.45,46.78,medium,low,9,spaceship,,,30/09/2026 14:21
 ce136a46-d0be-4bbe-8ee6-12a741515457,furthest.church,available,14.99,58.99,medium,low,8,namesilo,,,24/09/2026 17:07
 c3ac5ebd-b241-4e9b-8eb2-35fcd1e880a8,yet.church,available,7.45,46.78,high,low,3,spaceship,,,28/09/2026 11:53
 a2cbc195-210f-48a8-97fa-22f54e2f1294,defense.church,available,14.99,58.99,high,low,7,namesilo,,,29/09/2026 13:31
@@ -857,10 +940,11 @@ e555142e-28d6-47f7-9ec2-fec12b51bcad,stern.church,available,14.99,58.99,high,low
 aefc19cf-3987-4dcf-8db8-5cbb871bc1fe,concentric.church,available,8.48,78.98,high,low,10,namecheap,,,12/08/2026 19:57
 aa663ec0-4fa1-4119-a73d-17ad7496d558,apery.church,available,14.99,58.99,medium,low,5,namesilo,,,19/09/2026 16:43
 1d46c269-b188-4536-a219-26ab089d9c7f,baseless.church,available,8.48,78.98,medium,low,8,namecheap,,,08/08/2026 21:44
-50adfb69-ad1d-4624-b607-68e6a4358f42,moonlight.church,available,11.99,,high,low,9,name.com,,,
+50adfb69-ad1d-4624-b607-68e6a4358f42,moonlight.church,available,45.2,45.2,high,low,9,cloudflare,,,30/09/2026 05:14
+d51183ee-1eac-4a5f-845d-aaaeebeb0e3d,wembley.church,available,14.99,58.99,medium,low,7,namesilo,,,30/09/2026 11:20
 6dcde237-7fd2-4206-ad6e-96cf85ff40c6,greylag.church,available,14.99,58.99,medium,low,7,namesilo,,,19/09/2026 12:07
-8b7b9655-0b06-4e00-9133-b6413e031a4e,mata.church,available,45.2,45.2,high,low,4,cloudflare,,,28/09/2026 21:09
-6f7da381-1e36-41c5-b36f-19f66eabeefc,meddle.church,available,11.99,,medium,low,6,name.com,,,
+8b7b9655-0b06-4e00-9133-b6413e031a4e,mata.church,available,45.2,45.2,medium,low,4,cloudflare,,,28/09/2026 21:09
+6f7da381-1e36-41c5-b36f-19f66eabeefc,meddle.church,available,7.45,46.78,medium,low,6,spaceship,,,30/09/2026 20:30
 1ab03f1a-c6bd-4cd6-b998-f91d36c61d8a,lies.church,available,11.99,,medium,low,4,name.com,,,
 d13c430e-19fb-4796-b3d9-b80335ee628c,acidity.church,available,14.99,58.99,medium,low,7,namesilo,,,17/09/2026 01:24
 f3949fbc-b894-4a0f-8297-8d6cb0a48df5,muck.church,available,14.99,58.99,medium,low,4,namesilo,,,25/09/2026 00:13
@@ -872,7 +956,9 @@ f1f02e1f-46c8-43a6-86b3-329cfd72eaa0,autobiography.church,available,7.45,46.78,m
 7024c26c-279a-4c0a-a3d1-37db01116507,conscious.church,available,11.99,58.99,high,low,9,name.com,,,23/09/2026 20:38
 a7397fa5-edac-45b2-bdd7-b32c23b8b546,colourless.church,available,8.48,78.98,medium,low,10,namecheap,,,12/08/2026 17:55
 893736bf-5dcc-47c4-9193-405877bf7392,windblown.church,available,8.48,78.98,medium,low,9,namecheap,,,13/09/2026 12:08
-9bd9262a-9efa-407d-9ceb-aa8ffd35ba1c,vestal.church,available,8.48,78.98,high,low,6,namecheap,,,13/09/2026 04:47
+9bd9262a-9efa-407d-9ceb-aa8ffd35ba1c,vestal.church,available,8.48,78.98,medium,low,6,namecheap,,,13/09/2026 04:47
+9b165562-8dcf-4ad4-ac82-07e54049c273,cabaret.church,available,7.45,46.78,high,low,7,spaceship,,,30/09/2026 16:32
+f611c73c-c48a-44f2-8feb-12f50aa43b8d,rachael.church,available,7.45,46.78,medium,low,7,spaceship,,,30/09/2026 04:45
 bdbcaa58-4286-49c1-87d1-2b41e2334f78,pops.church,available,14.99,58.99,high,low,4,namesilo,,,18/09/2026 21:55
 07598136-5c8d-4128-abbc-dbb7c9946867,carrying.church,available,11.99,,high,low,8,name.com,,,
 78904cff-dc63-48bd-9838-fbba1a0313f8,louie.church,available,14.99,58.99,high,low,5,namesilo,,,28/09/2026 11:43
@@ -904,98 +990,12 @@ d15a714b-df49-4739-a526-782c718203e4,emmy.church,available,13.5,,high,low,4,unst
 212e9213-9ac1-403b-b5ba-74c5db8afea5,nonsuch.church,available,8.48,78.98,medium,low,7,namecheap,,,03/09/2026 20:15
 47330c54-9c40-42c8-8f71-f2ffc881731d,chefs.church,available,14.99,58.99,medium,low,5,namesilo,,,28/09/2026 08:37
 16567d94-df03-404b-813e-04db65191653,konrad.church,available,7.45,46.78,medium,low,6,spaceship,,,28/09/2026 12:53
+2b614c26-af61-4a70-85d6-4cc5158de5dd,compatibility.church,available,13.5,,high,low,13,unstoppable,,,30/09/2026 06:20
 3ed3a26f-39e1-406d-aa36-33c1a38f19b5,aptness.church,available,14.99,58.99,medium,low,7,namesilo,,,19/09/2026 22:03
 8b8e3854-7f95-428d-83c9-578181a56182,vera.church,available,6.69,46.86,high,medium,4,porkbun,,,28/09/2026 07:03
 06d057f9-2882-4f86-ac7a-d9fed114b5b2,riled.church,available,8.48,78.98,medium,low,5,namecheap,,,
 b64f06cb-2436-496e-b30f-530b486912e3,phonologic.church,available,8.48,78.98,medium,low,10,namecheap,,,08/09/2026 19:14
+f37317e8-086e-493b-a560-9eedae9995bb,navigational.church,available,45.2,45.2,medium,low,12,cloudflare,,,01/10/2026 06:02
 d851b168-9187-461c-a953-1e80c4e0e92c,tetchy.church,available,8.48,78.98,medium,low,6,namecheap,,,22/08/2026 10:31
+9c76b319-8394-4aa1-82b0-44175dea322a,kaunas.church,available,13.5,,medium,low,6,unstoppable,,,01/10/2026 02:48
 ed6388d3-ca2a-416b-a471-06df91418c74,quaintly.church,available,8.48,78.98,medium,low,8,namecheap,,,15/09/2026 22:07
-9a545658-3b95-4062-aa8d-5afe548866af,ghent.church,available,11.99,58.99,high,low,5,name.com,,,27/09/2026 04:10
-b483207a-1b03-42bd-a5fb-b4955fe879f9,rearing.church,available,8.48,78.98,high,low,7,namecheap,,,09/09/2026 11:04
-2fa2cb1d-2e4a-4fa8-b0a0-efd09262c48e,posed.church,available,8.48,78.98,high,low,5,namecheap,,,09/09/2026 00:04
-76ac2b95-4e26-47f0-a87f-ba4d5f3aaed5,regarding.church,available,8.48,78.98,high,low,9,namecheap,,,27/09/2026 06:20
-d2a26881-77e4-451b-aa08-db7301a011f4,invented.church,available,11.99,,high,low,8,name.com,,,
-ed030e38-a151-4185-9638-8eb99ef34de3,creole.church,available,8.48,78.98,high,low,6,namecheap,,,13/08/2026 06:07
-a7344077-a115-46f7-a052-6634b017f798,hormonal.church,available,8.48,78.98,medium,low,8,namecheap,,,21/08/2026 14:02
-877489f8-c5fd-46a9-b0d9-fa043fd03a38,sony.church,available,,,high,medium,4,,,,
-307147c6-2351-49ac-b690-4de8ce2bde7d,alkalic.church,available,8.48,78.98,medium,low,7,namecheap,,,
-00294ea4-28b3-4ed4-9771-f8e72aa1d5f1,berg.church,available,14.99,58.99,high,low,4,namesilo,,,18/09/2026 02:21
-ca14904f-7caa-4949-a178-15439f9544b1,baths.church,available,45.2,45.2,high,low,5,cloudflare,,,28/09/2026 23:22
-e6acd4f3-1a13-490a-8921-8b3fcbba81e4,intercultural.church,available,11.99,,high,low,13,name.com,,,
-5a3f9c82-b33f-4ea4-b426-829d38c34f59,unentitled.church,available,8.48,78.98,low,low,10,namecheap,,,12/09/2026 09:07
-b49abb7f-2943-4cbe-a267-6622a1f03a97,rightish.church,available,8.48,78.98,medium,low,8,namecheap,,,09/09/2026 17:35
-b4a7a228-f314-4af6-917a-a5f2fed61e1a,obstacle.church,available,14.99,58.99,medium,low,8,namesilo,,,28/09/2026 10:38
-65071c0d-2981-42fa-a2e8-bc8c23fe7f6e,unrepaired.church,available,8.48,78.98,medium,low,10,namecheap,,,12/09/2026 18:17
-3fc2f49f-7f45-4c2c-adc6-6e7cb09f4619,paused.church,available,14.99,58.99,medium,low,6,namesilo,,,18/09/2026 02:16
-95c4e2c2-3cd9-43a9-9213-3598cef40600,faceted.church,available,8.48,78.98,high,low,7,namecheap,,,17/08/2026 20:24
-6bbd347c-2f34-457d-b2bd-91118f9d8f49,gibber.church,available,14.99,58.99,medium,low,6,namesilo,,,23/09/2026 23:36
-638d1b50-6315-4e26-9d95-470836c7ef4b,mailed.church,available,8.48,78.98,high,low,6,namecheap,,,24/08/2026 13:18
-54129fe2-b8c0-49d1-9c83-33d75e8561be,barbara.church,available,8.48,78.98,high,low,7,namecheap,,,25/09/2026 11:55
-5c3b5d8d-a6d7-4e43-95ae-2177a06a48b5,cooker.church,available,8.48,78.98,high,low,6,namecheap,,,24/09/2026 18:03
-9f14e22e-2a2f-4a03-8f41-8b70b1df754d,adoptive.church,available,8.48,78.98,high,low,8,namecheap,,,
-86a56433-e000-4e78-90a6-001ce4c990ce,devices.church,available,6.69,46.86,high,low,7,porkbun,,,28/09/2026 03:14
-58543d45-f348-4e9f-87e6-bfef931cd264,lego.church,available,,,high,high,4,,,,
-4a26d676-da21-4ed5-8603-f943b5114497,spun.church,available,7.45,46.78,medium,low,4,spaceship,,,29/09/2026 15:59
-b8cb9c35-4725-4349-ad5a-84d06a1faecf,gip.church,available,8.48,78.98,medium,low,3,namecheap,,,14/09/2026 08:07
-16632db1-9804-4887-b5c3-03d22b6ad2d9,egotistic.church,available,8.48,78.98,medium,low,9,namecheap,,,12/08/2026 19:55
-03dec27a-4747-4100-86be-b0ad2f7f1d76,execrable.church,available,8.48,78.98,medium,low,9,namecheap,,,
-269f9cc2-18df-4495-a0da-11a85fe375d4,muggy.church,available,8.48,78.98,medium,low,5,namecheap,,,03/09/2026 10:31
-1838061f-ae80-457b-a121-6a94eb7f1f57,modal.church,available,8.48,78.98,high,low,5,namecheap,,,25/09/2026 21:10
-b4c89ec7-1271-4a09-a4c0-121a98cd1a87,endoscopic.church,available,8.48,78.98,medium,low,10,namecheap,,,17/08/2026 01:19
-ed51cdac-432d-4e06-b629-c8e62cba7ea4,itc.church,available,7.45,46.78,high,low,3,spaceship,,,29/09/2026 10:09
-90e81567-2c3d-4259-b236-654da9e86d23,beauty.church,available,8.48,78.98,high,low,6,namecheap,,,29/09/2026 14:17
-722c721e-1209-43b2-94cc-c947add69f78,jun.church,available,8.48,78.98,high,low,3,namecheap,,,29/09/2026 15:18
-f36d107c-638a-46c0-a611-9b00eebc5ee8,carol.church,available,14.99,58.99,high,low,5,namesilo,,,24/09/2026 13:02
-93a5006b-12c1-4200-a185-c045d936bc21,applaud.church,available,11.99,,high,low,7,name.com,,,
-a604aef2-5c55-4502-a278-46135da70c65,gentle.church,available,8.48,78.98,high,low,6,namecheap,,,06/08/2026 19:29
-de7e7060-1d38-4dfa-bfcd-2f5a349546c9,fevered.church,available,8.48,78.98,medium,low,7,namecheap,,,18/08/2026 03:07
-d8696f86-2265-422b-9dc6-8cacdc33cc59,batman.church,available,6.69,46.86,high,low,6,porkbun,,,29/09/2026 01:33
-81e87f75-f071-4c29-8f51-eb8f0d91075a,logistic.church,available,8.48,78.98,high,low,8,namecheap,,,24/08/2026 08:52
-e72c542f-4679-4fe1-b633-cf507bfb117e,rufus.church,available,45.2,45.2,high,low,5,cloudflare,,,28/09/2026 16:19
-f56ba8fb-1e22-484f-9d8a-53867d337ebb,emphasise.church,available,8.48,78.98,high,low,9,namecheap,,,16/09/2026 21:53
-0e194394-cdb7-4ea8-8d12-66191395b073,boreal.church,available,8.48,78.98,high,low,6,namecheap,,,10/08/2026 19:55
-270c3d48-9773-4648-8db5-8a3664ced33c,redevelopment.church,available,13.5,58.99,medium,low,13,unstoppable,,,28/09/2026 05:35
-a9e0dbcd-feff-4da1-9f97-12c45b6ed83d,squeaking.church,available,8.48,78.98,medium,low,9,namecheap,,,10/09/2026 00:03
-5560ff54-4cba-4479-8e90-6834a1532fbb,totality.church,available,8.48,78.98,high,low,8,namecheap,,,
-3273066c-cd2c-4679-b12b-36a5e3403850,indie.church,available,8.48,78.98,high,medium,5,namecheap,,,22/08/2026 03:00
-d88735dd-98f4-47d3-891d-fe9512d93cb2,fearsome.church,available,8.48,78.98,medium,low,8,namecheap,,,14/08/2026 08:55
-e95c1e34-7ca2-4fa5-9cc9-79243453f8ed,onomastic.church,available,8.48,78.98,medium,low,9,namecheap,,,04/09/2026 15:15
-49d55291-2a8b-494d-9fe1-180351137687,jazzy.church,available,8.48,78.98,high,low,5,namecheap,,,22/08/2026 12:35
-3b61684d-da48-4044-8f2c-d4a27d9ddb75,finalize.church,available,11.99,,high,low,8,name.com,,,
-a099fee4-9e0c-49d1-8b0d-dc7efcba9f4c,flute.church,available,14.99,58.99,high,low,5,namesilo,,,28/09/2026 13:41
-8752afb8-d710-4f0a-81ec-223baf5e2b51,murine.church,available,8.48,78.98,medium,low,6,namecheap,,,03/09/2026 11:04
-eb313e38-486a-47c7-a3cd-ee045bfcaefe,debonnaire.church,available,11.99,58.99,medium,low,10,name.com,,,13/08/2026 20:46
-fd98592f-9439-4cac-ac98-df1ec0699cab,brandenburg.church,available,7.45,46.78,high,low,11,spaceship,,,27/09/2026 16:50
-6b461ba0-ad75-419f-8741-124267a3f6c8,wishfully.church,available,14.99,58.99,medium,low,9,namesilo,,,16/09/2026 11:32
-04649170-afef-4cf7-b338-d334a99f5102,patron.church,available,7.45,46.78,high,low,6,spaceship,,,28/09/2026 14:14
-1b61dc0b-e949-44e3-a667-196233288054,josephine.church,available,13.5,,high,low,9,unstoppable,,,28/09/2026 12:04
-0f0c830a-95ce-43cb-a78f-4ecbce836c8f,palmerston.church,available,7.45,46.78,medium,low,10,spaceship,,,28/09/2026 16:40
-0e5aaa27-7830-4275-ac3e-77028d654895,terror.church,available,7.45,46.78,high,low,6,spaceship,,,28/09/2026 19:24
-634b44cd-08b6-4a94-b7aa-149e7ce11d31,betimes.church,available,8.48,78.98,medium,low,7,namecheap,,,13/09/2026 23:59
-30dc0d25-b30a-4929-8708-e2560cc3a0f1,indemnity.church,available,8.48,78.98,medium,low,9,namecheap,,,18/09/2026 18:43
-9c94e69b-6d1a-42b3-ad9f-9a4b8da9bceb,isthmian.church,available,8.48,78.98,medium,low,8,namecheap,,,22/08/2026 11:34
-e84914e2-3393-4494-8f88-6e6f05207fa0,spices.church,available,45.2,45.2,medium,low,6,cloudflare,,,28/09/2026 23:41
-7b8146c4-f927-48c1-b0ac-84278d53fc0b,alarmism.church,available,14.99,58.99,medium,low,8,namesilo,,,18/09/2026 01:58
-e94633b9-b401-4fde-86eb-e7c93b260ebd,oks.church,available,8.48,78.98,medium,low,3,namecheap,,,21/09/2026 06:13
-d6a0ddd8-7d1b-4c2c-a44d-45d922812649,dominion.church,resell,,,high,low,8,"Sav.com, LLC - 18",29/08/2026 15:15,29/08/2027 15:15,26/09/2026 05:39
-ac0a1850-ca8f-4d37-9845-8fa1ba54837c,maleficent.church,available,8.48,78.98,medium,low,10,namecheap,,,24/08/2026 13:58
-88663cc0-9bf8-4514-b984-527e07068892,peacefully.church,available,8.48,78.98,high,low,10,namecheap,,,15/09/2026 19:23
-bf11a1e9-5128-434d-bbf4-22b07f2104d3,sweets.church,available,6.69,46.86,high,low,6,porkbun,,,28/09/2026 05:51
-16390a5a-c69b-4ef5-b5c4-25e9cffc5f19,disturb.church,available,11.99,,high,low,7,name.com,,,
-8c3d82a1-7af6-4d90-b058-b32773173416,blackboard.church,available,8.48,78.98,high,low,10,namecheap,,,24/09/2026 02:09
-45146a5b-ac96-478d-9ac2-0df8d0ac0fe1,hyperbolic.church,available,8.48,78.98,high,low,10,namecheap,,,21/08/2026 16:44
-f7391229-bc6c-4074-afc0-672c464711e6,aflare.church,available,8.48,78.98,medium,low,6,namecheap,,,
-333777c5-73c1-4db9-8be0-b06d4eccf58e,poll.church,available,14.99,58.99,high,low,4,namesilo,,,29/09/2026 06:42
-f488c9fd-af8a-49ae-9ccc-3f72f463e2ff,pear.church,available,7.45,46.78,high,low,4,spaceship,,,29/09/2026 19:55
-44a55275-9204-4cf1-a198-d6fed49a87cd,accessed.church,available,14.99,58.99,medium,low,8,namesilo,,,29/09/2026 16:22
-a84d25e4-0f15-448b-beeb-3580001555ef,days.church,available,14.99,58.99,high,low,4,namesilo,,,29/09/2026 13:20
-d5904f69-6c41-4789-9fca-2cb12d474fba,wafers.church,available,14.99,58.99,medium,low,6,namesilo,,,20/09/2026 21:54
-c6a508f1-4f81-4a84-84d3-1101dbde0e3d,bottom.church,available,8.48,78.98,high,low,6,namecheap,,,09/08/2026 11:50
-78385407-914d-4ff0-844e-a94299bcdae5,grip.church,available,7.45,46.78,high,low,4,spaceship,,,28/09/2026 18:31
-c0de396f-de20-4840-a4a7-23a2eb928586,paine.church,available,7.45,46.78,medium,low,5,spaceship,,,29/09/2026 13:38
-a94f5a4c-bdb6-4486-b198-aa150a3605c9,peyton.church,available,45.2,45.2,medium,low,6,cloudflare,,,28/09/2026 18:24
-3b6c336f-54b3-4ef8-845d-483663e26534,adulterous.church,available,8.48,78.98,medium,low,10,namecheap,,,
-9a5d061f-6f96-4bfd-97b8-e9a3449b2697,trasimeno.church,available,8.48,78.98,medium,low,9,namecheap,,,22/09/2026 16:12
-5ef4c8bb-591b-4e73-87aa-c03bcf96013a,acoustical.church,available,8.48,78.98,medium,low,10,namecheap,,,
-1d2ba3cb-7be6-4f83-812d-bd7614ef2c23,vicki.church,available,7.45,46.78,medium,low,5,spaceship,,,29/09/2026 04:00
-92bae3b9-a750-46c9-9421-2793957fb15a,doughnut.church,available,45.2,45.2,high,low,8,cloudflare,,,28/09/2026 21:18
